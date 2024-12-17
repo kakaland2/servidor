@@ -59,7 +59,9 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2024-12-17 03:56:00 +0000",
+      "minecraft:skeleton": "2024-12-17 04:41:14 +0000",
       "minecraft:vindicator": "2024-12-17 04:00:46 +0000",
+      "minecraft:witch": "2024-12-17 04:39:10 +0000",
       "minecraft:zombie": "2024-12-17 03:47:12 +0000"
     },
     "done": false
@@ -255,6 +257,7 @@
       "cooked_mutton": "2024-12-17 04:18:05 +0000",
       "beef": "2024-12-17 03:55:26 +0000",
       "porkchop": "2024-12-17 03:52:27 +0000",
+      "apple": "2024-12-17 04:39:54 +0000",
       "mutton": "2024-12-17 04:09:55 +0000",
       "bread": "2024-12-17 04:06:50 +0000"
     },
@@ -1434,6 +1437,12 @@
   "slashblade:arts/rapid_slash": {
     "criteria": {
       "customtrigger": "2024-12-17 04:34:10 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/combo_c": {
+    "criteria": {
+      "customtrigger": "2024-12-17 04:40:54 +0000"
     },
     "done": true
   },

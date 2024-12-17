@@ -688,3 +688,89 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:brass_nugget'
 [17Dec2024 04:36:30.242] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jonathan1122[/127.169.8.59:53311] logged in with entity id 10657 at (382.3631723385779, 71.0, 212.18003700804272)
 [17Dec2024 04:36:30.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 joined the game
 [17Dec2024 04:36:30.290] [Server thread/INFO] [Jade/]: Syncing config to jonathan1122 (a07659a6-8778-3286-b26a-0e06bd88dc78)
+[17Dec2024 04:36:38.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> t
+[17Dec2024 04:36:39.285] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=24, y=65, z=10}
+[17Dec2024 04:36:39.585] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=24, y=66, z=10}
+[17Dec2024 04:36:42.507] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaco_tomsk moved too quickly! -4.062163823992023,-5.0,-12.975461526687837
+[17Dec2024 04:36:45.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk died
+[17Dec2024 04:37:14.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: titu has made the advancement [Blade MoveSets]
+[17Dec2024 04:37:29.584] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=21, y=64, z=7}
+[17Dec2024 04:37:30.131] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonathan1122 lost connection: Disconnected
+[17Dec2024 04:37:30.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 left the game
+[17Dec2024 04:37:30.221] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[17Dec2024 04:37:31.245] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=21, y=64, z=7}
+[17Dec2024 04:37:31.633] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=21, y=65, z=6}
+[17Dec2024 04:37:31.788] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=21, y=65, z=6}
+[17Dec2024 04:37:32.088] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=21, y=65, z=6}
+[17Dec2024 04:37:32.141] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=22, y=65, z=7}
+[17Dec2024 04:38:02.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] hola
+[17Dec2024 04:38:17.546] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jonathan1122[/127.169.8.59:34491] logged in with entity id 11562 at (382.64437484060363, 71.0, 209.20472568255448)
+[17Dec2024 04:38:17.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 joined the game
+[17Dec2024 04:38:17.574] [Server thread/INFO] [Jade/]: Syncing config to jonathan1122 (a07659a6-8778-3286-b26a-0e06bd88dc78)
+[17Dec2024 04:38:26.769] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/11870, l='ServerLevel[world]', x=-49.50, y=70.00, z=-18.50]
+[17Dec2024 04:38:31.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> t
+[17Dec2024 04:38:33.989] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: titu lost connection: Disconnected
+[17Dec2024 04:38:33.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: titu left the game
+[17Dec2024 04:38:35.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jonathan1122: Set own game mode to Creative Mode]
+[17Dec2024 04:38:43.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jonathan1122: Set own game mode to Survival Mode]
+[17Dec2024 04:39:02.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> t
+[17Dec2024 04:39:16.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jonathan1122: Set joaco_tomsk's game mode to Creative Mode]
+[17Dec2024 04:39:22.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jonathan1122: Set joaco_tomsk's game mode to Survival Mode]
+[17Dec2024 04:39:58.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dungeon break at X: -36 Y: 71 Z: -38
+[17Dec2024 04:40:30.536] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonathan1122 lost connection: Disconnected
+[17Dec2024 04:40:30.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 left the game
+[17Dec2024 04:40:36.542] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jonathan1122[/127.169.8.59:53367] logged in with entity id 12698 at (371.3465738929871, 67.0, 206.7111007658854)
+[17Dec2024 04:40:36.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 joined the game
+[17Dec2024 04:40:36.599] [Server thread/INFO] [Jade/]: Syncing config to jonathan1122 (a07659a6-8778-3286-b26a-0e06bd88dc78)
+[17Dec2024 04:40:49.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> t
+[17Dec2024 04:40:54.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 has made the advancement [Blade Arts -Combo C-              ]
+[17Dec2024 04:41:21.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> t
+[17Dec2024 04:41:36.535] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonathan1122 lost connection: Disconnected
+[17Dec2024 04:41:36.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 left the game
+[17Dec2024 04:41:50.582] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1e782132[id=<null>,name=jonathan1122,properties={},legacy=false] (/127.169.8.59:34333) lost connection: Disconnected
+[17Dec2024 04:41:56.889] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jonathan1122[/127.169.8.59:37925] logged in with entity id 13400 at (443.9123240483919, 69.0, 203.89598791762398)
+[17Dec2024 04:41:56.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 joined the game
+[17Dec2024 04:41:56.934] [Server thread/INFO] [Jade/]: Syncing config to jonathan1122 (a07659a6-8778-3286-b26a-0e06bd88dc78)
+[17Dec2024 04:42:01.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> t
+[17Dec2024 04:42:08.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> hola
+[17Dec2024 04:42:39.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> t
+[17Dec2024 04:43:15.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> t
+[17Dec2024 04:44:24.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> t
+[17Dec2024 04:44:30.186] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonathan1122 lost connection: Disconnected
+[17Dec2024 04:44:30.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 left the game
+[17Dec2024 04:44:37.493] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jonathan1122[/127.169.8.59:59161] logged in with entity id 14963 at (518.2282214398299, 80.0, 222.54919683044577)
+[17Dec2024 04:44:37.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 joined the game
+[17Dec2024 04:44:37.542] [Server thread/INFO] [Jade/]: Syncing config to jonathan1122 (a07659a6-8778-3286-b26a-0e06bd88dc78)
+[17Dec2024 04:44:41.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> t
+[17Dec2024 04:46:33.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> t
+[17Dec2024 04:46:42.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk died
+[17Dec2024 04:46:49.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 died
+[17Dec2024 04:46:58.279] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonathan1122 lost connection: Disconnected
+[17Dec2024 04:46:58.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 left the game
+[17Dec2024 04:47:23.338] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jonathan1122[/127.169.8.59:42943] logged in with entity id 16813 at (483.6491088763302, 79.76636799395752, 364.25626219742486)
+[17Dec2024 04:47:23.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 joined the game
+[17Dec2024 04:47:23.375] [Server thread/INFO] [Jade/]: Syncing config to jonathan1122 (a07659a6-8778-3286-b26a-0e06bd88dc78)
+[17Dec2024 04:47:43.058] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of joaco_tomsk) moved wrongly! 0.3165569676447717
+[17Dec2024 04:47:43.101] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of joaco_tomsk) moved wrongly! 1.0306514738345527
+[17Dec2024 04:47:43.139] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of joaco_tomsk) moved wrongly! 1.7391272468973114
+[17Dec2024 04:47:43.188] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of joaco_tomsk) moved wrongly! 2.4434046611370377
+[17Dec2024 04:47:52.771] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/17312, l='ServerLevel[world]', x=-48.50, y=70.00, z=-19.50]
+[17Dec2024 04:48:14.478] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonathan1122 lost connection: Timed out
+[17Dec2024 04:48:14.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 left the game
+[17Dec2024 04:48:34.037] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jonathan1122[/127.169.8.59:57747] logged in with entity id 17543 at (6.5, 64.0, 7.5)
+[17Dec2024 04:48:34.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 joined the game
+[17Dec2024 04:48:34.089] [Server thread/INFO] [Jade/]: Syncing config to jonathan1122 (a07659a6-8778-3286-b26a-0e06bd88dc78)
+[17Dec2024 04:48:55.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk died
+[17Dec2024 04:49:02.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> t
+[17Dec2024 04:49:31.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> t
+[17Dec2024 04:49:44.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> t
+[17Dec2024 04:50:00.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk died
+[17Dec2024 04:52:06.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> ty
+[17Dec2024 04:52:20.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> t
+[17Dec2024 04:53:05.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> t
+[17Dec2024 04:53:22.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> t
+[17Dec2024 04:53:52.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> t
+[17Dec2024 04:54:18.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> t
+[17Dec2024 04:55:22.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk has made the advancement [Packing Up!]
+[17Dec2024 04:55:45.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 has made the advancement [Getting an Upgrade]
+[17Dec2024 04:56:12.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gate opened at X: 366.5 Y: 68.0 Z: 11.5
