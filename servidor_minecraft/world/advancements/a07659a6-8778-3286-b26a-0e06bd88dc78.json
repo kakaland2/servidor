@@ -402,6 +402,12 @@
     },
     "done": true
   },
+  "slashblade:material/proudsoul_tiny": {
+    "criteria": {
+      "BrokenBlade": "2024-12-17 23:15:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-17 23:07:06 +0000"
@@ -420,6 +426,12 @@
     },
     "done": true
   },
+  "slashblade:material/proudsoul": {
+    "criteria": {
+      "BrokenBlade": "2024-12-17 23:17:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-17 23:07:06 +0000"
@@ -432,9 +444,33 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-17 23:15:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-17 23:07:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-17 23:17:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-12-17 23:16:56 +0000"
+    },
+    "done": true
+  },
+  "slashblade:root": {
+    "criteria": {
+      "attackTheEntity": "2024-12-17 23:15:39 +0000"
     },
     "done": true
   },
@@ -456,6 +492,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-17 23:16:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-17 23:07:06 +0000"
@@ -465,6 +507,12 @@
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2024-12-17 23:07:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2024-12-17 23:14:21 +0000"
     },
     "done": true
   },
@@ -493,6 +541,12 @@
       "has_item2_domum_ornamentum_sand_stone_bricks": "2024-12-17 23:07:06 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2024-12-17 23:17:19 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {

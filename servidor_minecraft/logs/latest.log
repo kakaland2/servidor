@@ -531,3 +531,24 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:brass_nugget'
 [17Dec2024 23:05:25.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 joined the game
 [17Dec2024 23:05:25.157] [Server thread/INFO] [Jade/]: Syncing config to jonathan1122 (a07659a6-8778-3286-b26a-0e06bd88dc78)
 [17Dec2024 23:07:06.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 has made the advancement [Blade MoveSets]
+[17Dec2024 23:14:21.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 was slain by Riding Lizard
+[17Dec2024 23:14:50.649] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 9zcoloskibidi[/127.213.240.60:44463] logged in with entity id 1463 at (-31.5, 66.0, -47.5)
+[17Dec2024 23:14:50.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 9zcoloskibidi joined the game
+[17Dec2024 23:14:50.703] [Server thread/INFO] [Jade/]: Syncing config to 9zcoloskibidi (9c72afac-23ff-3bb2-8fc8-2fdde0bc9112)
+[17Dec2024 23:15:35.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 9zcoloskibidi has made the advancement [Blade MoveSets]
+[17Dec2024 23:15:37.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 9zcoloskibidi has made the advancement [Tiny Proud Soul]
+[17Dec2024 23:15:37.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 9zcoloskibidi has made the advancement [Slash Blade]
+[17Dec2024 23:15:39.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 has made the advancement [Tiny Proud Soul]
+[17Dec2024 23:15:39.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 has made the advancement [Slash Blade]
+[17Dec2024 23:15:56.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 has made the advancement [Sweet Dreams]
+[17Dec2024 23:16:13.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jonathan1122: Gamerule playersSleepingPercentage is now set to: 0]
+[17Dec2024 23:16:31.547] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2eb0bb86[id=<null>,name=Mascoli,properties={},legacy=false] (/127.191.43.122:49775) lost connection: Disconnected
+[17Dec2024 23:17:16.693] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1df1dfc0[id=<null>,name=Mascoli,properties={},legacy=false] (/127.191.43.122:41405) lost connection: Disconnected
+[17Dec2024 23:17:19.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 has made the advancement [Proud Soul]
+[17Dec2024 23:18:24.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 has made the advancement [Ice Bucket Challenge]
+[17Dec2024 23:19:23.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> t
+[17Dec2024 23:20:01.852] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mascoli[/127.191.43.122:45275] logged in with entity id 5373 at (-26.5, 66.0, -44.5)
+[17Dec2024 23:20:01.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mascoli joined the game
+[17Dec2024 23:20:01.899] [Server thread/INFO] [Jade/]: Syncing config to Mascoli (3074805c-454a-3bf2-ab94-3c7ca5bad21e)
+[17Dec2024 23:20:37.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 9zcoloskibidi has made the advancement [Proud Soul]
+[17Dec2024 23:21:25.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mascoli has made the advancement [Blade MoveSets]
