@@ -9228,3 +9228,66 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:brass_nugget'
 [17Dec2024 04:55:32.494] [Worker-Main-46/DEBUG] [minecolonies/]: New Empty colony atMutableBlockPos{x=-496, y=92, z=864}
 [17Dec2024 04:55:45.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 has made the advancement [Getting an Upgrade]
 [17Dec2024 04:56:12.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gate opened at X: 366.5 Y: 68.0 Z: 11.5
+[17Dec2024 04:56:44.784] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 04:56:44.800] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 04:58:19.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gate opened at X: -146.5 Y: 79.0 Z: 656.5
+[17Dec2024 04:58:28.886] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['joaco_tomsk'/459, l='ServerLevel[world]', x=374.27, y=71.25, z=-27.71], dimensionLocationPath overworld
+[17Dec2024 04:58:28.886] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['joaco_tomsk'/459, l='ServerLevel[world]', x=374.27, y=71.25, z=-27.71] in list []
+[17Dec2024 04:58:29.183] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['joaco_tomsk'/459, l='ServerLevel[world]', x=374.35, y=69.68, z=-29.50]
+[17Dec2024 04:58:46.242] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['joaco_tomsk'/459, l='ServerLevel[world]', x=381.30, y=77.00, z=-35.71], dimensionLocationPath overworld
+[17Dec2024 04:58:46.242] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['joaco_tomsk'/459, l='ServerLevel[world]', x=381.30, y=77.00, z=-35.71] in list []
+[17Dec2024 04:58:51.691] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['joaco_tomsk'/459, l='ServerLevel[world]', x=386.62, y=78.00, z=-36.01]
+[17Dec2024 04:58:54.118] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['joaco_tomsk'/459, l='ServerLevel[world]', x=386.25, y=78.00, z=-36.53], dimensionLocationPath overworld
+[17Dec2024 04:58:54.118] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['joaco_tomsk'/459, l='ServerLevel[world]', x=386.25, y=78.00, z=-36.53] in list []
+[17Dec2024 04:58:54.553] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['joaco_tomsk'/459, l='ServerLevel[world]', x=386.25, y=78.00, z=-36.53]
+[17Dec2024 04:58:59.521] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/23821, l='ServerLevel[world]', x=386.40, y=80.22, z=-37.74], dimensionLocationPath ruins
+[17Dec2024 04:58:59.521] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/23822, l='ServerLevel[world]', x=386.50, y=80.22, z=-37.45], dimensionLocationPath overworld
+[17Dec2024 04:58:59.521] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/23822, l='ServerLevel[world]', x=386.50, y=80.22, z=-37.45] in list []
+[17Dec2024 04:58:59.697] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/23821, l='ServerLevel[world]', x=386.40, y=80.22, z=-37.74, removed=UNLOADED_TO_CHUNK]
+[17Dec2024 04:58:59.730] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/23825, l='ServerLevel[world]', x=386.40, y=80.22, z=-37.74], dimensionLocationPath ruins
+[17Dec2024 04:58:59.730] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/23825, l='ServerLevel[world]', x=386.40, y=80.22, z=-37.74] in list []
+[17Dec2024 04:58:59.792] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/23825, l='ServerLevel[world]', x=386.40, y=80.22, z=-37.74, removed=UNLOADED_TO_CHUNK]
+[17Dec2024 04:59:00.372] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/23822, l='ServerLevel[world]', x=385.57, y=79.00, z=-37.97, removed=DISCARDED]
+[17Dec2024 04:59:01.737] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['joaco_tomsk'/459, l='ServerLevel[world]', x=386.85, y=79.00, z=-38.21], dimensionLocationPath overworld
+[17Dec2024 04:59:01.738] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['joaco_tomsk'/459, l='ServerLevel[world]', x=386.85, y=79.00, z=-38.21] in list []
+[17Dec2024 04:59:18.019] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/23998, l='ServerLevel[world]', x=-104.50, y=70.00, z=561.50]
+[17Dec2024 04:59:52.323] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/24353, l='ServerLevel[world]', x=-106.50, y=70.00, z=563.50]
+[17Dec2024 05:00:28.129] [Server thread/INFO] [net.mcreator.sololeveling.SoloLevelingMod/]: ID: 2.0
+[17Dec2024 05:00:35.990] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaco_tomsk moved too quickly! -6.038294799477853,-1.3015347236627832,-8.0621208498913
+[17Dec2024 05:00:36.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> t
+[17Dec2024 05:00:36.010] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7392ms or 147 ticks behind
+[17Dec2024 05:00:50.584] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinEntity['Goblin lvl 7'/24851, l='ServerLevel[world]', x=999.75, y=59.00, z=72.98] died: Goblin lvl 7 died
+[17Dec2024 05:00:54.336] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinEntity['Goblin lvl 6'/24850, l='ServerLevel[world]', x=998.25, y=59.00, z=71.75] died: Goblin lvl 6 died
+[17Dec2024 05:01:27.733] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinEntity['Goblin lvl 1'/24848, l='ServerLevel[world]', x=999.79, y=58.50, z=109.70] died: Goblin lvl 1 died
+[17Dec2024 05:01:31.238] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Goblin2Entity['Goblin lvl 6'/24849, l='ServerLevel[world]', x=998.66, y=59.50, z=104.48] died: Goblin lvl 6 died
+[17Dec2024 05:01:43.931] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinEntity['Goblin lvl 7'/24847, l='ServerLevel[world]', x=998.65, y=59.00, z=102.11] died: Goblin lvl 7 died
+[17Dec2024 05:01:48.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jonathan1122: Made joaco_tomsk no longer a server operator]
+[17Dec2024 05:01:52.166] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 05:01:52.190] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 05:02:08.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jonathan1122: Set joaco_tomsk's game mode to Creative Mode]
+[17Dec2024 05:02:13.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jonathan1122: Set joaco_tomsk's game mode to Survival Mode]
+[17Dec2024 05:02:53.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 has made the advancement [Blade Arts -Aerial Rave B-       ]
+[17Dec2024 05:02:56.187] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinEntity['Goblin lvl 5'/24841, l='ServerLevel[world]', x=1015.77, y=59.00, z=62.56] died: Goblin lvl 5 died
+[17Dec2024 05:02:58.557] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinEntity['Goblin lvl 1'/24843, l='ServerLevel[world]', x=1015.18, y=59.00, z=61.86] died: Goblin lvl 1 died
+[17Dec2024 05:03:13.530] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['joaco_tomsk'/459, l='ServerLevel[world]', x=449.48, y=3.41, z=-169.94]
+[17Dec2024 05:03:14.131] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['joaco_tomsk'/459, l='ServerLevel[world]', x=448.98, y=2.11, z=-169.01], dimensionLocationPath overworld
+[17Dec2024 05:03:14.131] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['joaco_tomsk'/459, l='ServerLevel[world]', x=448.98, y=2.11, z=-169.01] in list []
+[17Dec2024 05:03:15.932] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['joaco_tomsk'/459, l='ServerLevel[world]', x=448.39, y=-7.00, z=-169.05]
+[17Dec2024 05:03:21.022] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4455ms or 89 ticks behind
+[17Dec2024 05:03:21.249] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['joaco_tomsk'/459, l='ServerLevel[world]', x=447.07, y=-4.58, z=-170.54], dimensionLocationPath overworld
+[17Dec2024 05:03:21.249] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['joaco_tomsk'/459, l='ServerLevel[world]', x=447.07, y=-4.58, z=-170.54] in list []
+[17Dec2024 05:03:25.118] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaco_tomsk lost connection: Disconnected
+[17Dec2024 05:03:25.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk left the game
+[17Dec2024 05:03:25.170] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ServerPlayer['joaco_tomsk'/459, l='ServerLevel[world]', x=449.21, y=-3.00, z=-170.70, removed=UNLOADED_WITH_PLAYER]
+[17Dec2024 05:04:04.619] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/25821, l='ServerLevel[world]', x=-88.50, y=72.00, z=554.50]
+[17Dec2024 05:05:11.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 has made the advancement [Suit Up]
+[17Dec2024 05:05:15.521] [Server thread/INFO] [net.mcreator.sololeveling.SoloLevelingMod/]: ID: 2.0
+[17Dec2024 05:05:19.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 has made the advancement [Blade Arts -Combo B-              ]
+[17Dec2024 05:05:25.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 has made the advancement [Abilities -Enemy Step-           ]
+[17Dec2024 05:05:28.974] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Goblin2Entity['Goblin lvl 9'/26009, l='ServerLevel[world]', x=1000.28, y=59.00, z=74.32] died: Goblin lvl 9 died
+[17Dec2024 05:05:33.923] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Goblin2Entity['Goblin lvl 10'/26008, l='ServerLevel[world]', x=998.27, y=59.00, z=76.44] died: Goblin lvl 10 died
+[17Dec2024 05:05:45.021] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Goblin2Entity['Goblin lvl 7'/26012, l='ServerLevel[world]', x=1006.29, y=59.00, z=61.54] died: Goblin lvl 7 died
+[17Dec2024 05:06:12.422] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinEntity['Goblin lvl 3'/26010, l='ServerLevel[world]', x=999.51, y=59.00, z=57.36] died: Goblin lvl 3 died
+[17Dec2024 05:06:13.522] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Goblin2Entity['Goblin lvl 6'/26011, l='ServerLevel[world]', x=999.56, y=59.00, z=55.53] died: Goblin lvl 6 died
+[17Dec2024 05:06:56.554] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 05:06:56.570] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

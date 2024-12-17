@@ -25,10 +25,14 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2024-12-17 04:53:51 +0000",
       "minecraft:birch_forest": "2024-12-17 03:54:52 +0000",
+      "minecraft:windswept_hills": "2024-12-17 04:57:24 +0000",
+      "minecraft:beach": "2024-12-17 04:54:29 +0000",
       "minecraft:dark_forest": "2024-12-17 03:55:30 +0000",
       "minecraft:river": "2024-12-17 03:15:00 +0000",
-      "minecraft:forest": "2024-12-17 03:47:13 +0000"
+      "minecraft:forest": "2024-12-17 03:47:13 +0000",
+      "minecraft:old_growth_spruce_taiga": "2024-12-17 04:53:21 +0000"
     },
     "done": false
   },
@@ -255,6 +259,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2024-12-17 04:18:05 +0000",
+      "cooked_beef": "2024-12-17 05:03:26 +0000",
       "beef": "2024-12-17 03:55:26 +0000",
       "porkchop": "2024-12-17 03:52:27 +0000",
       "apple": "2024-12-17 04:39:54 +0000",
@@ -1443,6 +1448,72 @@
   "slashblade:arts/combo_c": {
     "criteria": {
       "customtrigger": "2024-12-17 04:40:54 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/combo_b": {
+    "criteria": {
+      "customtrigger": "2024-12-17 05:05:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2024-12-17 05:05:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2024-12-17 04:54:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2024-12-17 04:55:56 +0000"
+    },
+    "done": true
+  },
+  "slashblade:abilities/enemy_step": {
+    "criteria": {
+      "customtrigger": "2024-12-17 05:05:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-17 05:03:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2024-12-17 04:54:49 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/aerial_b": {
+    "criteria": {
+      "customtrigger": "2024-12-17 05:02:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2024-12-17 05:03:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2024-12-17 04:54:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-12-17 04:55:45 +0000"
     },
     "done": true
   },

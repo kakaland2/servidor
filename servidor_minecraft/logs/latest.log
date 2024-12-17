@@ -774,3 +774,34 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:brass_nugget'
 [17Dec2024 04:55:22.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk has made the advancement [Packing Up!]
 [17Dec2024 04:55:45.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 has made the advancement [Getting an Upgrade]
 [17Dec2024 04:56:12.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gate opened at X: 366.5 Y: 68.0 Z: 11.5
+[17Dec2024 04:58:19.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gate opened at X: -146.5 Y: 79.0 Z: 656.5
+[17Dec2024 04:59:18.019] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/23998, l='ServerLevel[world]', x=-104.50, y=70.00, z=561.50]
+[17Dec2024 04:59:52.323] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/24353, l='ServerLevel[world]', x=-106.50, y=70.00, z=563.50]
+[17Dec2024 05:00:28.129] [Server thread/INFO] [net.mcreator.sololeveling.SoloLevelingMod/]: ID: 2.0
+[17Dec2024 05:00:35.990] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaco_tomsk moved too quickly! -6.038294799477853,-1.3015347236627832,-8.0621208498913
+[17Dec2024 05:00:36.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> t
+[17Dec2024 05:00:36.010] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7392ms or 147 ticks behind
+[17Dec2024 05:00:50.584] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinEntity['Goblin lvl 7'/24851, l='ServerLevel[world]', x=999.75, y=59.00, z=72.98] died: Goblin lvl 7 died
+[17Dec2024 05:00:54.336] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinEntity['Goblin lvl 6'/24850, l='ServerLevel[world]', x=998.25, y=59.00, z=71.75] died: Goblin lvl 6 died
+[17Dec2024 05:01:27.733] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinEntity['Goblin lvl 1'/24848, l='ServerLevel[world]', x=999.79, y=58.50, z=109.70] died: Goblin lvl 1 died
+[17Dec2024 05:01:31.238] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Goblin2Entity['Goblin lvl 6'/24849, l='ServerLevel[world]', x=998.66, y=59.50, z=104.48] died: Goblin lvl 6 died
+[17Dec2024 05:01:43.931] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinEntity['Goblin lvl 7'/24847, l='ServerLevel[world]', x=998.65, y=59.00, z=102.11] died: Goblin lvl 7 died
+[17Dec2024 05:01:48.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jonathan1122: Made joaco_tomsk no longer a server operator]
+[17Dec2024 05:02:08.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jonathan1122: Set joaco_tomsk's game mode to Creative Mode]
+[17Dec2024 05:02:13.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jonathan1122: Set joaco_tomsk's game mode to Survival Mode]
+[17Dec2024 05:02:53.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 has made the advancement [Blade Arts -Aerial Rave B-       ]
+[17Dec2024 05:02:56.187] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinEntity['Goblin lvl 5'/24841, l='ServerLevel[world]', x=1015.77, y=59.00, z=62.56] died: Goblin lvl 5 died
+[17Dec2024 05:02:58.557] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinEntity['Goblin lvl 1'/24843, l='ServerLevel[world]', x=1015.18, y=59.00, z=61.86] died: Goblin lvl 1 died
+[17Dec2024 05:03:21.022] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4455ms or 89 ticks behind
+[17Dec2024 05:03:25.118] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaco_tomsk lost connection: Disconnected
+[17Dec2024 05:03:25.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk left the game
+[17Dec2024 05:04:04.619] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/25821, l='ServerLevel[world]', x=-88.50, y=72.00, z=554.50]
+[17Dec2024 05:05:11.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 has made the advancement [Suit Up]
+[17Dec2024 05:05:15.521] [Server thread/INFO] [net.mcreator.sololeveling.SoloLevelingMod/]: ID: 2.0
+[17Dec2024 05:05:19.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 has made the advancement [Blade Arts -Combo B-              ]
+[17Dec2024 05:05:25.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 has made the advancement [Abilities -Enemy Step-           ]
+[17Dec2024 05:05:28.974] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Goblin2Entity['Goblin lvl 9'/26009, l='ServerLevel[world]', x=1000.28, y=59.00, z=74.32] died: Goblin lvl 9 died
+[17Dec2024 05:05:33.923] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Goblin2Entity['Goblin lvl 10'/26008, l='ServerLevel[world]', x=998.27, y=59.00, z=76.44] died: Goblin lvl 10 died
+[17Dec2024 05:05:45.021] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Goblin2Entity['Goblin lvl 7'/26012, l='ServerLevel[world]', x=1006.29, y=59.00, z=61.54] died: Goblin lvl 7 died
+[17Dec2024 05:06:12.422] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinEntity['Goblin lvl 3'/26010, l='ServerLevel[world]', x=999.51, y=59.00, z=57.36] died: Goblin lvl 3 died
+[17Dec2024 05:06:13.522] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Goblin2Entity['Goblin lvl 6'/26011, l='ServerLevel[world]', x=999.56, y=59.00, z=55.53] died: Goblin lvl 6 died
