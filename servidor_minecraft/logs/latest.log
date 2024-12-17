@@ -552,3 +552,25 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:brass_nugget'
 [17Dec2024 23:20:01.899] [Server thread/INFO] [Jade/]: Syncing config to Mascoli (3074805c-454a-3bf2-ab94-3c7ca5bad21e)
 [17Dec2024 23:20:37.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 9zcoloskibidi has made the advancement [Proud Soul]
 [17Dec2024 23:21:25.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mascoli has made the advancement [Blade MoveSets]
+[17Dec2024 23:22:09.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mascoli has made the advancement [Tiny Proud Soul]
+[17Dec2024 23:23:10.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 9zcoloskibidi has made the advancement [Too Many Bows]
+[17Dec2024 23:23:12.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 has made the advancement [Anonymity -Wood-]
+[17Dec2024 23:23:45.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 has made the advancement [Blade Arts -Combo B-              ]
+[17Dec2024 23:23:49.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 has made the advancement [Blade Arts -Combo A-              ]
+[17Dec2024 23:25:11.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mascoli has made the advancement [Proud Soul]
+[17Dec2024 23:25:59.755] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: titu[/127.79.122.95:54543] logged in with entity id 11027 at (-29.5, 66.0, -47.5)
+[17Dec2024 23:25:59.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: titu joined the game
+[17Dec2024 23:25:59.802] [Server thread/INFO] [Jade/]: Syncing config to titu (1771bea9-3264-3ddb-ba12-2d974f6a0520)
+[17Dec2024 23:27:00.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mascoli has made the advancement [Sweet Dreams]
+[17Dec2024 23:27:02.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: titu has made the advancement [Blade MoveSets]
+[17Dec2024 23:27:20.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 has made the advancement [The Beginning of An Adventure]
+[17Dec2024 23:27:20.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 has made the advancement [Fortune Seeker]
+[17Dec2024 23:27:42.933] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/12860, l='ServerLevel[world]', x=364.50, y=70.00, z=-1067.50]
+[17Dec2024 23:29:05.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 has made the advancement [Abilities -Kick Jump-            ]
+[17Dec2024 23:29:08.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 has made the advancement [Blade Arts -Combo C-              ]
+[17Dec2024 23:29:19.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: titu has made the advancement [Tiny Proud Soul]
+[17Dec2024 23:29:19.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: titu has made the advancement [Slash Blade]
+[17Dec2024 23:29:56.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> anonymity
+[17Dec2024 23:30:51.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 9zcoloskibidi has made the advancement [Anonymity -Wood-]
+[17Dec2024 23:30:56.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 has made the advancement [Stone Age]
+[17Dec2024 23:31:13.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 has made the advancement [Getting an Upgrade]

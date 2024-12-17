@@ -5,6 +5,18 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/flowering_azalea_planks": {
+    "criteria": {
+      "has_logs": "2024-12-17 23:20:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2024-12-17 23:17:57 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/time_boat": {
     "criteria": {
       "in_water": "2024-12-17 23:15:13 +0000"
@@ -41,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-17 23:24:35 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/spruce_cog": {
     "criteria": {
       "in_water": "2024-12-17 23:15:13 +0000"
@@ -53,9 +71,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2024-12-17 23:26:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-17 23:18:28 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/combat/gilded_quiver": {
+    "criteria": {
+      "has_ingots_gold": "2024-12-17 23:18:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-17 23:24:35 +0000"
+    },
+    "done": true
+  },
   "ecologics:recipes/ecologics/azalea_boat": {
     "criteria": {
       "in_water": "2024-12-17 23:15:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-17 23:18:28 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/flowering_azalea_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-17 23:20:08 +0000"
     },
     "done": true
   },
@@ -65,9 +119,99 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/flowering_azalea_door": {
+    "criteria": {
+      "has_planks": "2024-12-17 23:20:08 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/azalea_button": {
+    "criteria": {
+      "has_planks": "2024-12-17 23:20:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_horse_armor": "2024-12-17 23:18:30 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/azalea_slab": {
+    "criteria": {
+      "has_planks": "2024-12-17 23:20:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-17 23:18:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-17 23:18:28 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/flowering_azalea_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-17 23:20:08 +0000"
+    },
+    "done": true
+  },
+  "slashblade:material/proudsoul": {
+    "criteria": {
+      "BrokenBlade": "2024-12-17 23:20:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-17 23:18:28 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/flowering_azalea_wood": {
+    "criteria": {
+      "has_log": "2024-12-17 23:20:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-17 23:18:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2024-12-17 23:17:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_horse_armor": "2024-12-17 23:18:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-17 23:18:28 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/jungle_cog": {
     "criteria": {
       "in_water": "2024-12-17 23:15:13 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/building_blocks/blockbarreldeco_onside": {
+    "criteria": {
+      "has_stick": "2024-12-17 23:17:57 +0000"
     },
     "done": true
   },
@@ -83,9 +227,39 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/azalea_wood": {
+    "criteria": {
+      "has_log": "2024-12-17 23:20:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "unlock_right_away": "2024-12-17 23:14:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-12-17 23:20:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2024-12-17 23:24:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2024-12-17 23:20:08 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/flowering_azalea_fence": {
+    "criteria": {
+      "has_planks": "2024-12-17 23:20:08 +0000"
     },
     "done": true
   },
@@ -107,6 +281,18 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/flowering_azalea_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-17 23:20:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-17 23:18:28 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/oak_cog": {
     "criteria": {
       "in_water": "2024-12-17 23:15:13 +0000"
@@ -122,6 +308,12 @@
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2024-12-17 23:16:30 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/architectscutter": {
+    "criteria": {
+      "has_log": "2024-12-17 23:20:01 +0000"
     },
     "done": true
   },
@@ -179,9 +371,27 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-17 23:20:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2024-12-17 23:15:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-17 23:24:35 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/azalea_door": {
+    "criteria": {
+      "has_planks": "2024-12-17 23:20:10 +0000"
     },
     "done": true
   },
@@ -191,9 +401,21 @@
     },
     "done": true
   },
+  "too_many_bows:root": {
+    "criteria": {
+      "has_any_bow": "2024-12-17 23:23:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2024-12-17 23:15:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-17 23:18:28 +0000"
     },
     "done": true
   },
@@ -215,9 +437,33 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/cooked_prickly_pear_from_campfire_cooking": {
+    "criteria": {
+      "cooked_prickly_pear": "2024-12-17 23:26:02 +0000"
+    },
+    "done": true
+  },
   "slashblade:root": {
     "criteria": {
       "attackTheEntity": "2024-12-17 23:15:37 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:root": {
+    "criteria": {
+      "crafting_table": "2024-12-17 23:20:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-17 23:24:35 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/azalea_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-17 23:20:10 +0000"
     },
     "done": true
   },
@@ -230,6 +476,12 @@
   "smallships:recipes/transportation/spruce_galley": {
     "criteria": {
       "in_water": "2024-12-17 23:15:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2024-12-17 23:24:35 +0000"
     },
     "done": true
   },
@@ -251,15 +503,45 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/cooked_prickly_pear": {
+    "criteria": {
+      "cooked_prickly_pear": "2024-12-17 23:26:02 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/azalea_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-17 23:20:10 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/birch_cog": {
     "criteria": {
       "in_water": "2024-12-17 23:15:13 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2024-12-17 23:24:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2024-12-17 23:15:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2024-12-17 23:23:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2024-12-17 23:24:35 +0000"
     },
     "done": true
   },
@@ -278,6 +560,12 @@
   "domum_ornamentum:recipes/tools/wheat_extra": {
     "criteria": {
       "has_material": "2024-12-17 23:16:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2024-12-17 23:26:56 +0000"
     },
     "done": true
   },
@@ -305,15 +593,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2024-12-17 23:17:57 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/dark_boat": {
     "criteria": {
       "in_water": "2024-12-17 23:15:13 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2024-12-17 23:17:57 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/birch_brigg": {
     "criteria": {
       "in_water": "2024-12-17 23:15:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2024-12-17 23:20:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2024-12-17 23:17:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-17 23:23:55 +0000"
     },
     "done": true
   },
@@ -329,9 +647,33 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/cooked_prickly_pear_from_smoking": {
+    "criteria": {
+      "cooked_prickly_pear": "2024-12-17 23:26:02 +0000"
+    },
+    "done": true
+  },
   "skilltree:recipes/combat/bone_quiver": {
     "criteria": {
       "has_bone": "2024-12-17 23:16:30 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/azalea_planks": {
+    "criteria": {
+      "has_logs": "2024-12-17 23:20:01 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/flowering_azalea_sign": {
+    "criteria": {
+      "has_planks": "2024-12-17 23:20:08 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/azalea_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-17 23:20:10 +0000"
     },
     "done": true
   },
@@ -341,9 +683,27 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/flowering_azalea_hanging_sign": {
+    "criteria": {
+      "has_planks": "2024-12-17 23:20:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-17 23:18:28 +0000"
+    },
+    "done": true
+  },
   "ecologics:recipes/ecologics/flowering_azalea_boat": {
     "criteria": {
       "in_water": "2024-12-17 23:15:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2024-12-17 23:17:57 +0000"
     },
     "done": true
   },
@@ -353,9 +713,27 @@
     },
     "done": true
   },
+  "too_many_bows:master_bow_collector": {
+    "criteria": {
+      "arcane_bow": "2024-12-17 23:23:10 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-17 23:18:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2024-12-17 23:15:13 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/azalea_sign": {
+    "criteria": {
+      "has_planks": "2024-12-17 23:20:10 +0000"
     },
     "done": true
   },
@@ -371,18 +749,61 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/flowering_azalea_slab": {
+    "criteria": {
+      "has_planks": "2024-12-17 23:20:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2024-12-17 23:17:57 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/building_blocks/blockbarreldeco_standing": {
+    "criteria": {
+      "has_stick": "2024-12-17 23:17:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:river": "2024-12-17 23:15:16 +0000",
-      "minecraft:desert": "2024-12-17 23:14:51 +0000"
+      "minecraft:desert": "2024-12-17 23:14:51 +0000",
+      "minecraft:jungle": "2024-12-17 23:26:22 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2024-12-17 23:20:08 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/azalea_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-17 23:20:10 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2024-12-17 23:15:48 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-17 23:18:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2024-12-17 23:20:37 +0000"
+    },
+    "done": false
   },
   "smallships:recipes/transportation/jungle_galley": {
     "criteria": {
@@ -408,6 +829,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2024-12-17 23:24:35 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/spruce_drakkar": {
     "criteria": {
       "in_water": "2024-12-17 23:15:13 +0000"
@@ -426,9 +853,21 @@
     },
     "done": true
   },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-12-17 23:20:14 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/cherry_cog": {
     "criteria": {
       "in_water": "2024-12-17 23:15:13 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/azalea_fence": {
+    "criteria": {
+      "has_planks": "2024-12-17 23:20:10 +0000"
     },
     "done": true
   },
@@ -441,6 +880,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2024-12-17 23:15:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-17 23:18:28 +0000"
     },
     "done": true
   },
