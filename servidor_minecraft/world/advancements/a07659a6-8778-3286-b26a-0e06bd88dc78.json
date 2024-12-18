@@ -25,11 +25,15 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2024-12-18 01:23:13 +0000",
+      "minecraft:taiga": "2024-12-18 01:07:20 +0000",
       "minecraft:birch_forest": "2024-12-18 00:30:12 +0000",
       "minecraft:dark_forest": "2024-12-18 00:31:02 +0000",
       "minecraft:mangrove_swamp": "2024-12-17 23:55:15 +0000",
       "minecraft:sparse_jungle": "2024-12-17 23:22:03 +0000",
       "minecraft:river": "2024-12-17 05:30:02 +0000",
+      "minecraft:grove": "2024-12-18 01:10:37 +0000",
+      "minecraft:jagged_peaks": "2024-12-18 01:22:08 +0000",
       "minecraft:forest": "2024-12-18 00:02:54 +0000",
       "minecraft:desert": "2024-12-17 05:28:47 +0000",
       "minecraft:jungle": "2024-12-18 00:04:26 +0000",
@@ -437,6 +441,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2024-12-18 00:57:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2024-12-18 00:12:45 +0000"
@@ -497,6 +507,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-18 00:53:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2024-12-17 23:18:25 +0000"
@@ -521,9 +537,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-18 01:15:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
       "has_log": "2024-12-17 23:22:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-18 00:53:53 +0000"
     },
     "done": true
   },
@@ -696,6 +724,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-18 00:53:36 +0000"
+    },
+    "done": true
+  },
   "ecologics:recipes/ecologics/azalea_slab": {
     "criteria": {
       "has_planks": "2024-12-17 23:20:07 +0000"
@@ -711,6 +745,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2024-12-18 00:12:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-18 00:53:36 +0000"
     },
     "done": true
   },
@@ -834,6 +874,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-12-18 01:15:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2024-12-17 23:18:51 +0000"
@@ -843,6 +889,12 @@
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2024-12-17 23:26:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-18 00:53:36 +0000"
     },
     "done": true
   },
@@ -918,6 +970,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-12-18 01:03:07 +0000"
+    },
+    "done": true
+  },
   "domum_ornamentum:recipes/building_blocks/blockbarreldeco_onside": {
     "criteria": {
       "has_planks": "2024-12-17 23:20:07 +0000"
@@ -963,6 +1021,12 @@
   "packedup:recipes/misc/copper_from_basic": {
     "criteria": {
       "recipe_condition": "2024-12-17 23:51:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2024-12-18 00:53:36 +0000"
     },
     "done": true
   },
@@ -1052,10 +1116,19 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-12-18 00:53:43 +0000",
       "minecraft:skeleton": "2024-12-18 00:00:01 +0000",
-      "minecraft:vindicator": "2024-12-18 00:31:36 +0000"
+      "minecraft:vindicator": "2024-12-18 00:31:36 +0000",
+      "minecraft:spider": "2024-12-18 01:13:07 +0000",
+      "minecraft:zombie": "2024-12-18 01:06:27 +0000"
     },
     "done": false
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-12-18 00:53:55 +0000"
+    },
+    "done": true
   },
   "domum_ornamentum:recipes/decorations/green_floating_carpet": {
     "criteria": {
@@ -1277,6 +1350,12 @@
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2024-12-17 23:16:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-18 00:53:36 +0000"
     },
     "done": true
   },
@@ -1546,6 +1625,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-18 01:13:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2024-12-18 00:09:37 +0000"
@@ -1597,6 +1682,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2024-12-17 23:26:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-18 00:53:36 +0000"
     },
     "done": true
   },
@@ -1684,6 +1775,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-18 00:53:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-18 00:20:11 +0000"
@@ -1699,6 +1796,12 @@
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2024-12-17 23:25:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-12-18 01:15:10 +0000"
     },
     "done": true
   },
@@ -1729,6 +1832,12 @@
   "domum_ornamentum:recipes/decorations/yellow_floating_carpet": {
     "criteria": {
       "has_string": "2024-12-17 23:26:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-18 00:53:36 +0000"
     },
     "done": true
   },
@@ -1819,6 +1928,12 @@
   "domum_ornamentum:recipes/decorations/red_floating_carpet": {
     "criteria": {
       "has_string": "2024-12-17 23:26:56 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2024-12-18 00:50:20 +0000"
     },
     "done": true
   },
@@ -1918,9 +2033,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-18 01:03:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-17 23:27:47 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/dragon_staff": {
+    "criteria": {
+      "has_item": "2024-12-18 01:03:07 +0000"
     },
     "done": true
   },
@@ -2206,6 +2333,12 @@
   "domum_ornamentum:recipes/tools/purple_cobblestone_extra": {
     "criteria": {
       "has_material": "2024-12-17 23:30:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-18 01:03:07 +0000"
     },
     "done": true
   },
