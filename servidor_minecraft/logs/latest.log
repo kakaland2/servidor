@@ -164,3 +164,40 @@
 [18Dec2024 01:52:35.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mascoli has made the advancement [Packing Up!]
 [18Dec2024 01:52:40.368] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonathan1122 lost connection: Disconnected
 [18Dec2024 01:52:40.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 left the game
+[18Dec2024 01:55:53.319] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jonathan1122[/127.169.8.59:54103] logged in with entity id 168851 at (1481.9549669219286, 1.5625, -1761.1540543033216)
+[18Dec2024 01:55:53.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 joined the game
+[18Dec2024 01:55:53.363] [Server thread/INFO] [Jade/]: Syncing config to jonathan1122 (a07659a6-8778-3286-b26a-0e06bd88dc78)
+[18Dec2024 01:57:09.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mascoli has made the advancement [Hot Stuff]
+[18Dec2024 01:58:23.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 has made the advancement [Too Many Bows]
+[18Dec2024 01:59:23.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: titu has made the advancement [Packing Up!]
+[18Dec2024 01:59:52.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 has completed the challenge [Repair Crystal]
+[18Dec2024 02:00:41.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 9zcoloskibidi has made the advancement [False Water]
+[18Dec2024 02:01:52.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 9zcoloskibidi has made the advancement [Tools of the Trade]
+[18Dec2024 02:02:12.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 fell from a high place
+[18Dec2024 02:06:47.153] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/183043, l='ServerLevel[world]', x=1852.50, y=78.00, z=-433.50]
+[18Dec2024 02:07:01.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: titu has made the advancement [Bigger is better]
+[18Dec2024 02:07:54.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mascoli has made the advancement [Bigger is better]
+[18Dec2024 02:11:05.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 9zcoloskibidi has made the advancement [Not Today, Thank You]
+[18Dec2024 02:11:14.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 9zcoloskibidi has made the advancement [Take Aim]
+[18Dec2024 02:11:26.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 was shot by Skeleton
+[18Dec2024 02:11:43.869] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mascoli lost connection: Disconnected
+[18Dec2024 02:11:43.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mascoli left the game
+[18Dec2024 02:14:19.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 has made the advancement [Gucci backpack]
+[18Dec2024 02:14:32.367] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mascoli[/127.81.157.53:38461] logged in with entity id 191691 at (859.4989294545524, 64.0, 1189.641158634295)
+[18Dec2024 02:14:32.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mascoli joined the game
+[18Dec2024 02:14:32.388] [Server thread/INFO] [Jade/]: Syncing config to Mascoli (3074805c-454a-3bf2-ab94-3c7ca5bad21e)
+[18Dec2024 02:14:43.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 9zcoloskibidi was blown up by Creeper
+[18Dec2024 02:14:48.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> broooo
+[18Dec2024 02:14:50.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> 0 muertes
+[18Dec2024 02:17:12.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: titu has made the advancement [Tools of the Trade]
+[18Dec2024 02:17:57.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: titu has reached the goal [Quaint Scribe]
+[18Dec2024 02:18:53.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: titu was caught by Archevoker's fangs
+[18Dec2024 02:19:39.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 has made the advancement [A... Fake?]
+[18Dec2024 02:20:01.010] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mascoli lost connection: Disconnected
+[18Dec2024 02:20:01.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mascoli left the game
+[18Dec2024 02:20:23.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: titu fell from a high place
+[18Dec2024 02:20:27.427] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mascoli[/127.81.157.53:33551] logged in with entity id 198431 at (1000.2815797074562, 75.0, 1164.670386465649)
+[18Dec2024 02:20:27.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mascoli joined the game
+[18Dec2024 02:20:27.452] [Server thread/INFO] [Jade/]: Syncing config to Mascoli (3074805c-454a-3bf2-ab94-3c7ca5bad21e)
+[18Dec2024 02:21:00.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 9zcoloskibidi was shot by Skeleton
+[18Dec2024 02:26:08.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mascoli was killed by Apothecarist using magic

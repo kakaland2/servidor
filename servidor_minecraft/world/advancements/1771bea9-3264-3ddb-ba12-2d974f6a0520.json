@@ -25,13 +25,21 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:birch_forest": "2024-12-18 02:08:51 +0000",
+      "minecraft:beach": "2024-12-18 02:06:15 +0000",
+      "minecraft:dark_forest": "2024-12-18 02:10:54 +0000",
       "minecraft:sparse_jungle": "2024-12-17 23:34:53 +0000",
       "minecraft:river": "2024-12-17 23:28:02 +0000",
+      "minecraft:stony_shore": "2024-12-18 02:07:05 +0000",
       "minecraft:dripstone_caves": "2024-12-18 00:24:56 +0000",
+      "minecraft:grove": "2024-12-18 02:09:00 +0000",
       "minecraft:forest": "2024-12-17 23:42:32 +0000",
       "minecraft:desert": "2024-12-17 23:26:00 +0000",
       "minecraft:jungle": "2024-12-17 23:34:23 +0000",
-      "minecraft:meadow": "2024-12-18 00:12:06 +0000"
+      "minecraft:old_growth_birch_forest": "2024-12-18 02:11:51 +0000",
+      "minecraft:meadow": "2024-12-18 00:12:06 +0000",
+      "minecraft:savanna": "2024-12-18 01:57:32 +0000",
+      "minecraft:plains": "2024-12-18 02:04:53 +0000"
     },
     "done": false
   },
@@ -1119,7 +1127,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-12-18 02:08:58 +0000",
       "chicken": "2024-12-18 01:33:06 +0000",
+      "cooked_mutton": "2024-12-18 02:01:40 +0000",
       "mutton": "2024-12-18 01:36:32 +0000",
       "bread": "2024-12-18 00:09:44 +0000",
       "melon_slice": "2024-12-17 23:39:56 +0000",
@@ -2111,9 +2121,21 @@
     },
     "done": true
   },
+  "packedup:recipes/misc/iron_from_basic": {
+    "criteria": {
+      "recipe_condition": "2024-12-18 01:59:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2024-12-18 01:40:39 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2024-12-18 02:17:12 +0000"
     },
     "done": true
   },
@@ -2129,15 +2151,63 @@
     },
     "done": true
   },
+  "packedup:recipes/misc/copper_from_basic": {
+    "criteria": {
+      "recipe_condition": "2024-12-18 01:59:23 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/root": {
+    "criteria": {
+      "inscription_table": "2024-12-18 02:17:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-18 01:40:39 +0000"
     },
     "done": true
   },
+  "packedup:basic_backpack": {
+    "criteria": {
+      "has_backpack": "2024-12-18 01:59:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2024-12-18 02:12:20 +0000"
+    },
+    "done": true
+  },
+  "packedup:recipes/misc/gold_from_iron": {
+    "criteria": {
+      "recipe_condition": "2024-12-18 02:07:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-12-18 02:00:54 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2024-12-18 02:17:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-18 01:40:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2024-12-18 02:13:24 +0000"
     },
     "done": true
   },
@@ -2153,9 +2223,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-12-18 02:00:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2024-12-18 02:12:20 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:verglas": {
     "criteria": {
       "item": "2024-12-18 01:48:39 +0000"
+    },
+    "done": true
+  },
+  "packedup:iron_or_copper_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2024-12-18 02:07:01 +0000"
     },
     "done": true
   },
@@ -2174,6 +2262,18 @@
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2024-12-18 01:40:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2024-12-18 02:13:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-12-18 02:00:54 +0000"
     },
     "done": true
   },
@@ -2198,6 +2298,18 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-18 01:40:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2024-12-18 02:13:24 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2024-12-18 02:17:57 +0000"
     },
     "done": true
   },
