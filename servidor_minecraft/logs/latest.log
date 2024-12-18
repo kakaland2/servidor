@@ -201,3 +201,95 @@
 [18Dec2024 02:20:27.452] [Server thread/INFO] [Jade/]: Syncing config to Mascoli (3074805c-454a-3bf2-ab94-3c7ca5bad21e)
 [18Dec2024 02:21:00.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 9zcoloskibidi was shot by Skeleton
 [18Dec2024 02:26:08.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mascoli was killed by Apothecarist using magic
+[18Dec2024 02:26:58.532] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[18Dec2024 02:27:02.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 9zcoloskibidi was slain by Zombie
+[18Dec2024 02:27:16.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> chicoooos
+[18Dec2024 02:27:16.549] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[18Dec2024 02:27:18.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> yo tengo 0 muertes
+[18Dec2024 02:27:21.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> que bueno que soooy
+[18Dec2024 02:27:21.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <9zcoloskibidi> 3
+[18Dec2024 02:28:02.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 9zcoloskibidi was slain by Zombie
+[18Dec2024 02:28:06.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> chicoooos
+[18Dec2024 02:29:15.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mascoli was melted by Apothecarist's poisonous breath
+[18Dec2024 02:29:34.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 9zcoloskibidi was shot by Skeleton
+[18Dec2024 02:30:07.417] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mascoli lost connection: Disconnected
+[18Dec2024 02:30:07.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mascoli left the game
+[18Dec2024 02:30:43.161] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mascoli[/127.191.43.122:52789] logged in with entity id 210809 at (1278.0446345087205, 65.0, 1284.5874595036119)
+[18Dec2024 02:30:43.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mascoli joined the game
+[18Dec2024 02:30:43.180] [Server thread/INFO] [Jade/]: Syncing config to Mascoli (3074805c-454a-3bf2-ab94-3c7ca5bad21e)
+[18Dec2024 02:31:21.612] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/210045, l='ServerLevel[world]', x=7779.30, y=56.00, z=3593.62] died, message: 'Librarian was slain by Zombie'
+[18Dec2024 02:31:22.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jonathan1122: Set display slot list to show objective Muertes]
+[18Dec2024 02:31:24.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 9zcoloskibidi was shot by Skeleton
+[18Dec2024 02:31:35.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jonathan1122: Set display slot list to show objective Vida]
+[18Dec2024 02:32:04.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jonathan1122: Set display slot sidebar.team.dark_blue to show objective Muertes]
+[18Dec2024 02:34:09.082] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/214096, l='ServerLevel[world]', x=1446.50, y=70.00, z=1042.50]
+[18Dec2024 02:34:24.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 9zcoloskibidi has made the advancement [Amateur Archaeologist]
+[18Dec2024 02:35:47.137] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/215258, l='ServerLevel[world]', x=1454.50, y=69.00, z=1074.50]
+[18Dec2024 02:35:49.483] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/215309, l='ServerLevel[world]', x=1444.50, y=70.00, z=1042.50]
+[18Dec2024 02:36:07.634] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/215677, l='ServerLevel[world]', x=1446.50, y=70.00, z=1041.50]
+[18Dec2024 02:36:40.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> t
+[18Dec2024 02:36:50.319] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mascoli lost connection: Disconnected
+[18Dec2024 02:36:50.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mascoli left the game
+[18Dec2024 02:37:05.971] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonathan1122 moved wrongly!
+[18Dec2024 02:37:19.464] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mascoli[/127.191.43.122:44007] logged in with entity id 216620 at (1430.9600091437694, 67.0, 1021.9115642695486)
+[18Dec2024 02:37:19.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mascoli joined the game
+[18Dec2024 02:37:19.481] [Server thread/INFO] [Jade/]: Syncing config to Mascoli (3074805c-454a-3bf2-ab94-3c7ca5bad21e)
+[18Dec2024 02:37:40.613] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/217075, l='ServerLevel[world]', x=1448.50, y=72.00, z=1017.50]
+[18Dec2024 02:38:02.882] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/217329, l='ServerLevel[world]', x=1414.50, y=72.00, z=-1921.50]
+[18Dec2024 02:38:20.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: titu has made the advancement [Gucci backpack]
+[18Dec2024 02:38:34.222] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/217670, l='ServerLevel[world]', x=1445.50, y=70.00, z=1042.50]
+[18Dec2024 02:39:29.057] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joaco_tomsk[/127.79.179.172:42555] logged in with entity id 218698 at (19.70411915401517, 64.0, -19.12007747161593)
+[18Dec2024 02:39:29.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk joined the game
+[18Dec2024 02:39:29.107] [Server thread/INFO] [Jade/]: Syncing config to joaco_tomsk (a076dc84-50bb-3bf4-832f-299af23013a2)
+[18Dec2024 02:39:36.975] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
+[18Dec2024 02:39:39.249] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mascoli moved too quickly! 9.048639753292719,4.661433331115504,0.6600659974805012
+[18Dec2024 02:40:05.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk was slain by Riding Lizard
+[18Dec2024 02:42:51.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk has made the advancement [Acquire Hardware]
+[18Dec2024 02:42:52.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk has made the advancement [Tools of the Trade]
+[18Dec2024 02:42:54.069] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 9zcoloskibidi lost connection: Disconnected
+[18Dec2024 02:42:54.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 9zcoloskibidi left the game
+[18Dec2024 02:43:08.935] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mascoli moved too quickly! 9.087339419539603,2.419538341018125,3.5841652357103158
+[18Dec2024 02:43:29.896] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mascoli moved too quickly! 4.791536224232459,4.690259212927373,-7.570917153461778
+[18Dec2024 02:44:10.791] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[18Dec2024 02:44:28.787] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2257ms or 45 ticks behind
+[18Dec2024 02:46:01.924] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2144ms or 42 ticks behind
+[18Dec2024 02:46:03.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk has made the advancement [Proud Soul]
+[18Dec2024 02:46:48.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mascoli has made the advancement [Ol' Betsy]
+[18Dec2024 02:46:48.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mascoli has made the advancement [Take Aim]
+[18Dec2024 02:46:53.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mascoli has made the advancement [Who's the Pillager Now?]
+[18Dec2024 02:47:14.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mascoli was slain by Vindicator
+[18Dec2024 02:47:19.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaco_tomsk> bot
+[18Dec2024 02:47:38.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk has made the advancement [Isn't It Iron Pick]
+[18Dec2024 02:47:43.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: titu has made the advancement [Amateur Archaeologist]
+[18Dec2024 02:47:46.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk has made the advancement [Stone Age]
+[18Dec2024 02:49:14.866] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/230081, l='ServerLevel[world]', x=2901.86, y=66.00, z=1402.73] died, message: 'Unemployed was shot by Pillager'
+[18Dec2024 02:50:31.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: titu has made the advancement [Ol' Betsy]
+[18Dec2024 02:50:36.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: titu has made the advancement [Take Aim]
+[18Dec2024 02:50:50.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mascoli was shot by Skeleton Musketeer
+[18Dec2024 02:52:46.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk was blown up by Creeper
+[18Dec2024 02:52:53.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mascoli> zzz
+[18Dec2024 02:53:17.386] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mascoli moved too quickly! -0.20878928511183403,-9.484106825078086,4.669435107208983
+[18Dec2024 02:53:20.838] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/234185, l='ServerLevel[world]', x=2925.70, y=66.00, z=1413.16] died, message: 'Weaponsmith was shot by Pillager'
+[18Dec2024 02:56:29.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk has made the advancement [Best Friends Forever]
+[18Dec2024 02:56:37.618] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaco_tomsk lost connection: Disconnected
+[18Dec2024 02:56:37.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk left the game
+[18Dec2024 02:57:17.667] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joaco_tomsk[/127.79.179.172:37019] logged in with entity id 242156 at (1068.7565175987659, 64.775, -752.254772395912)
+[18Dec2024 02:57:17.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk joined the game
+[18Dec2024 02:57:18.233] [Server thread/INFO] [Jade/]: Syncing config to joaco_tomsk (a076dc84-50bb-3bf4-832f-299af23013a2)
+[18Dec2024 02:58:04.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 was mauled by Necromancer's undead
+[18Dec2024 02:58:21.364] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14684ms or 293 ticks behind
+[18Dec2024 03:00:24.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk was slain by Dragon
+[18Dec2024 03:00:44.842] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonathan1122 moved too quickly! 0.7879094041386452,-10.642290303909121,2.1874244288590035
+[18Dec2024 03:00:46.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 was doomed to fall by Spider
+[18Dec2024 03:03:46.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaco_tomsk> 3460 68
+[18Dec2024 03:05:25.669] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3380, y=64, z=2615} BlockPos{x=3380, y=62, z=2616}
+[18Dec2024 03:06:11.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk went off with a bang thanks to Archevoker
+[18Dec2024 03:07:46.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mascoli> 1428, 96
+[18Dec2024 03:07:57.168] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3275, y=64, z=2583} BlockPos{x=3275, y=62, z=2582}
+[18Dec2024 03:07:57.242] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3275, y=64, z=2583} BlockPos{x=3275, y=62, z=2582}
+[18Dec2024 03:08:16.529] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3207, y=64, z=2514} BlockPos{x=3207, y=62, z=2513}
+[18Dec2024 03:08:47.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 fell from a high place
+[18Dec2024 03:08:57.178] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mascoli moved too quickly! 3.8617234877847295,4.76570327811686,-8.291588257071453
+[18Dec2024 03:16:12.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk has made the advancement [Sweet Dreams]
+[18Dec2024 03:16:19.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaco_tomsk> titu
+[18Dec2024 03:17:22.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk has made the advancement [Monster Hunter]

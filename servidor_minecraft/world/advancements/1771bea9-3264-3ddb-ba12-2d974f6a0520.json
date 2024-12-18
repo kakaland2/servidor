@@ -25,6 +25,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2024-12-18 02:52:08 +0000",
       "minecraft:birch_forest": "2024-12-18 02:08:51 +0000",
       "minecraft:beach": "2024-12-18 02:06:15 +0000",
       "minecraft:dark_forest": "2024-12-18 02:10:54 +0000",
@@ -33,9 +34,11 @@
       "minecraft:stony_shore": "2024-12-18 02:07:05 +0000",
       "minecraft:dripstone_caves": "2024-12-18 00:24:56 +0000",
       "minecraft:grove": "2024-12-18 02:09:00 +0000",
+      "minecraft:cold_ocean": "2024-12-18 02:57:12 +0000",
       "minecraft:forest": "2024-12-17 23:42:32 +0000",
       "minecraft:desert": "2024-12-17 23:26:00 +0000",
       "minecraft:jungle": "2024-12-17 23:34:23 +0000",
+      "minecraft:old_growth_spruce_taiga": "2024-12-18 02:46:40 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-18 02:11:51 +0000",
       "minecraft:meadow": "2024-12-18 00:12:06 +0000",
       "minecraft:savanna": "2024-12-18 01:57:32 +0000",
@@ -1130,6 +1133,8 @@
       "cooked_porkchop": "2024-12-18 02:08:58 +0000",
       "chicken": "2024-12-18 01:33:06 +0000",
       "cooked_mutton": "2024-12-18 02:01:40 +0000",
+      "beef": "2024-12-18 02:29:52 +0000",
+      "porkchop": "2024-12-18 02:26:06 +0000",
       "mutton": "2024-12-18 01:36:32 +0000",
       "bread": "2024-12-18 00:09:44 +0000",
       "melon_slice": "2024-12-17 23:39:56 +0000",
@@ -1647,7 +1652,8 @@
       "minecraft:skeleton": "2024-12-17 23:49:59 +0000",
       "minecraft:spider": "2024-12-18 00:16:33 +0000",
       "minecraft:silverfish": "2024-12-18 00:12:20 +0000",
-      "minecraft:zombie": "2024-12-18 00:03:57 +0000"
+      "minecraft:zombie": "2024-12-18 00:03:57 +0000",
+      "minecraft:drowned": "2024-12-18 02:48:51 +0000"
     },
     "done": false
   },
@@ -2121,9 +2127,63 @@
     },
     "done": true
   },
+  "packedup:silver_or_gold_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2024-12-18 02:38:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2024-12-18 03:06:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-18 02:31:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-18 02:37:59 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/combat/gilded_quiver": {
+    "criteria": {
+      "has_ingots_gold": "2024-12-18 02:37:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-18 02:31:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-18 02:37:59 +0000"
+    },
+    "done": true
+  },
   "packedup:recipes/misc/iron_from_basic": {
     "criteria": {
       "recipe_condition": "2024-12-18 01:59:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-18 02:37:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-18 02:37:59 +0000"
     },
     "done": true
   },
@@ -2133,9 +2193,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-18 02:37:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-18 02:37:59 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/ink_root": {
     "criteria": {
       "requirement": "2024-12-18 02:17:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-18 02:37:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-18 02:50:36 +0000"
     },
     "done": true
   },
@@ -2154,6 +2238,18 @@
   "packedup:recipes/misc/copper_from_basic": {
     "criteria": {
       "recipe_condition": "2024-12-18 01:59:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2024-12-18 02:31:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-12-18 02:57:47 +0000"
     },
     "done": true
   },
@@ -2199,9 +2295,81 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-18 02:37:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-18 02:35:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2024-12-18 03:06:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-18 02:31:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-18 01:40:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-18 02:37:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2024-12-18 02:50:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-18 02:31:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2024-12-18 02:31:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2024-12-18 02:31:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2024-12-18 02:31:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2024-12-18 02:31:38 +0000"
+    },
+    "done": true
+  },
+  "packedup:recipes/misc/diamond_from_gold": {
+    "criteria": {
+      "recipe_condition": "2024-12-18 02:38:20 +0000"
     },
     "done": true
   },
@@ -2220,6 +2388,12 @@
   "soulsweapons:recipes/building_blocks/verglas_block": {
     "criteria": {
       "has_item": "2024-12-18 01:48:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2024-12-18 02:29:26 +0000"
     },
     "done": true
   },
@@ -2259,15 +2433,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-18 02:31:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2024-12-18 01:40:39 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-12-18 02:58:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-18 02:37:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-18 02:37:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2024-12-18 02:13:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-12-18 02:35:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2024-12-18 03:06:34 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2024-12-18 02:47:43 +0000"
     },
     "done": true
   },
@@ -2301,6 +2517,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-18 02:37:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2024-12-18 02:31:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2024-12-18 02:13:24 +0000"
@@ -2310,6 +2538,12 @@
   "irons_spellbooks:irons_spellbooks/make_inscription_table": {
     "criteria": {
       "inscription_table": "2024-12-18 02:17:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-18 02:37:59 +0000"
     },
     "done": true
   },

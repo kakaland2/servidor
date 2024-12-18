@@ -28,6 +28,7 @@
       "minecraft:snowy_slopes": "2024-12-18 01:23:13 +0000",
       "minecraft:old_growth_pine_taiga": "2024-12-18 01:27:08 +0000",
       "minecraft:taiga": "2024-12-18 01:07:20 +0000",
+      "minecraft:frozen_river": "2024-12-18 02:41:21 +0000",
       "minecraft:birch_forest": "2024-12-18 00:30:12 +0000",
       "minecraft:beach": "2024-12-18 01:34:07 +0000",
       "minecraft:dark_forest": "2024-12-18 00:31:02 +0000",
@@ -45,6 +46,7 @@
       "minecraft:frozen_ocean": "2024-12-18 02:01:03 +0000",
       "minecraft:desert": "2024-12-17 05:28:47 +0000",
       "minecraft:jungle": "2024-12-18 00:04:26 +0000",
+      "minecraft:snowy_beach": "2024-12-18 02:37:09 +0000",
       "minecraft:windswept_savanna": "2024-12-17 23:57:39 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-18 00:29:50 +0000",
       "minecraft:meadow": "2024-12-18 00:22:57 +0000",
@@ -589,7 +591,8 @@
       "mutton": "2024-12-18 01:34:57 +0000",
       "bread": "2024-12-17 23:17:19 +0000",
       "golden_apple": "2024-12-18 01:32:47 +0000",
-      "melon_slice": "2024-12-17 23:25:44 +0000"
+      "melon_slice": "2024-12-17 23:25:44 +0000",
+      "cooked_chicken": "2024-12-18 03:13:35 +0000"
     },
     "done": false
   },
@@ -2793,15 +2796,81 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2024-12-18 02:49:11 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:all_weapons": {
     "criteria": {
       "bluemoon_great": "2024-12-18 02:19:39 +0000"
     },
     "done": false
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2024-12-18 02:49:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2024-12-18 02:49:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2024-12-18 02:45:12 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/guts_sword": {
+    "criteria": {
+      "has_item": "2024-12-18 02:51:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2024-12-18 02:49:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2024-12-18 02:48:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-18 02:36:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-18 02:49:11 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:bluemoon_tools": {
     "criteria": {
       "soulsweapons:bluemoon_greatsword": "2024-12-18 02:19:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2024-12-18 02:49:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2024-12-18 02:45:12 +0000"
     },
     "done": true
   },
@@ -2811,9 +2880,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2024-12-18 02:45:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-18 02:49:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2024-12-18 02:45:12 +0000"
+    },
+    "done": true
+  },
   "packedup:recipes/misc/diamond_from_gold": {
     "criteria": {
       "recipe_condition": "2024-12-18 02:14:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2024-12-18 02:36:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2024-12-18 02:48:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-18 02:45:12 +0000"
     },
     "done": true
   },
@@ -2823,11 +2928,71 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-12-18 02:51:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-18 02:49:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-18 02:45:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2024-12-18 02:45:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-18 02:45:12 +0000"
+    },
+    "done": true
+  },
   "too_many_bows:master_bow_collector": {
     "criteria": {
       "emerald_sage_bow": "2024-12-18 01:58:23 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-18 02:49:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-12-18 02:49:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-18 02:49:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-18 02:45:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-12-18 02:51:29 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
