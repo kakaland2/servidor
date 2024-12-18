@@ -37,10 +37,13 @@
       "minecraft:sparse_jungle": "2024-12-18 01:59:08 +0000",
       "minecraft:river": "2024-12-17 23:21:01 +0000",
       "minecraft:lukewarm_ocean": "2024-12-18 03:24:54 +0000",
+      "minecraft:stony_shore": "2024-12-18 03:42:28 +0000",
       "minecraft:dripstone_caves": "2024-12-18 00:04:08 +0000",
       "minecraft:swamp": "2024-12-18 02:03:21 +0000",
+      "minecraft:grove": "2024-12-18 03:43:04 +0000",
       "minecraft:forest": "2024-12-17 23:50:36 +0000",
       "minecraft:desert": "2024-12-17 23:20:02 +0000",
+      "minecraft:windswept_forest": "2024-12-18 04:26:50 +0000",
       "minecraft:jungle": "2024-12-17 23:32:10 +0000",
       "minecraft:ocean": "2024-12-18 02:36:08 +0000",
       "minecraft:windswept_savanna": "2024-12-18 02:00:45 +0000",
@@ -620,7 +623,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "beef": "2024-12-18 04:09:57 +0000",
       "apple": "2024-12-18 00:06:16 +0000",
+      "mutton": "2024-12-18 04:17:15 +0000",
       "bread": "2024-12-17 23:25:11 +0000",
       "melon_slice": "2024-12-18 01:42:55 +0000",
       "cooked_chicken": "2024-12-18 00:13:11 +0000",
@@ -2511,6 +2516,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2024-12-18 04:17:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2024-12-18 04:17:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2024-12-18 02:51:35 +0000"
@@ -2520,6 +2537,18 @@
   "twilightforest:recipes/decorations/wood/dark_oak_banister": {
     "criteria": {
       "has_item": "2024-12-18 02:45:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2024-12-18 04:17:06 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/walnut_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-18 03:54:10 +0000"
     },
     "done": true
   },
@@ -2547,9 +2576,45 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/walnut_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-18 03:54:10 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/walnut_planks": {
+    "criteria": {
+      "has_logs": "2024-12-18 03:54:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/ol_betsy": {
     "criteria": {
       "shot_crossbow": "2024-12-18 02:46:48 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/walnut_sign": {
+    "criteria": {
+      "has_planks": "2024-12-18 03:54:10 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/walnut_button": {
+    "criteria": {
+      "has_planks": "2024-12-18 03:54:10 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/walnut_slab": {
+    "criteria": {
+      "has_planks": "2024-12-18 03:54:10 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/walnut_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-18 03:54:10 +0000"
     },
     "done": true
   },
@@ -2562,6 +2627,30 @@
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2024-12-18 02:51:35 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/walnut_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-18 03:54:10 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/walnut_door": {
+    "criteria": {
+      "has_planks": "2024-12-18 03:54:10 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/walnut_fence": {
+    "criteria": {
+      "has_planks": "2024-12-18 03:54:10 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/walnut_wood": {
+    "criteria": {
+      "has_log": "2024-12-18 03:54:04 +0000"
     },
     "done": true
   },
