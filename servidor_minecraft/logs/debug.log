@@ -8529,3 +8529,49 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:brass_nugget'
 [18Dec2024 00:32:01.409] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/90840, l='ServerLevel[world]', x=1436.59, y=107.13, z=-956.34] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@b7]
 [18Dec2024 00:32:01.883] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/90840, l='ServerLevel[world]', x=1436.38, y=106.89, z=-955.74, removed=DISCARDED]
 [18Dec2024 00:32:05.285] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[18Dec2024 00:32:16.553] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElTata_ moved too quickly! -9.790029708400198,-0.41290928041701136,2.262625759105333
+[18Dec2024 00:32:24.743] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4463ms or 89 ticks behind
+[18Dec2024 00:32:36.601] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElTata_ moved too quickly! -4.763152319078927,1.252203340253729,-8.83118652154019
+[18Dec2024 00:32:46.326] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 9zcoloskibidi lost connection: Disconnected
+[18Dec2024 00:32:46.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 9zcoloskibidi left the game
+[18Dec2024 00:32:49.517] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: titu moved too quickly! -1.5274657176870505,-10.667067244575911,-0.9593357809565077
+[18Dec2024 00:32:57.669] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17940ms or 358 ticks behind
+[18Dec2024 00:33:09.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTata_ has made the advancement [Acquire Hardware]
+[18Dec2024 00:33:16.860] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4231ms or 84 ticks behind
+[18Dec2024 00:33:24.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 was caught by Archevoker's fangs
+[18Dec2024 00:33:24.358] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ServerPlayer['jonathan1122'/183, l='ServerLevel[world]', x=1433.70, y=119.00, z=-950.01]
+[18Dec2024 00:33:26.356] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 00:33:26.363] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 00:33:26.520] [Server thread/DEBUG] [twilightforest/]: Player jonathan1122 (a07659a6-8778-3286-b26a-0e06bd88dc78) respawned and received items held in storage
+[18Dec2024 00:33:37.405] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5575ms or 111 ticks behind
+[18Dec2024 00:34:31.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: titu was shot by Skeleton
+[18Dec2024 00:34:32.936] [Server thread/DEBUG] [twilightforest/]: Player titu (1771bea9-3264-3ddb-ba12-2d974f6a0520) respawned and received items held in storage
+[18Dec2024 00:36:15.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mascoli has made the advancement [Full Moon in a Pocket]
+[18Dec2024 00:36:41.570] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ElTata_) moved too quickly! -10.447685467058363,0.0,-2.81317367686838
+[18Dec2024 00:36:41.571] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ElTata_) moved too quickly! -11.669840961825685,0.0,-3.1819055292184073
+[18Dec2024 00:36:41.572] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ElTata_) moved too quickly! -12.903304727682553,0.0,-3.561202659984416
+[18Dec2024 00:36:41.572] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ElTata_) moved too quickly! -14.147987146214291,0.0,-3.9505790292280283
+[18Dec2024 00:36:41.572] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ElTata_) moved too quickly! -15.403796610202335,0.0,-4.349560731788473
+[18Dec2024 00:36:41.573] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ElTata_) moved too quickly! -16.670637920201443,0.0,-4.757689251205442
+[18Dec2024 00:36:41.787] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ElTata_) moved too quickly! 12.609400002361326,0.0,4.017485341421047
+[18Dec2024 00:36:41.787] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ElTata_) moved too quickly! 12.609400002361326,0.0,4.017485341421047
+[18Dec2024 00:36:41.788] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ElTata_) moved too quickly! 12.609400002361326,0.0,4.017485341421047
+[18Dec2024 00:36:41.788] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ElTata_) moved too quickly! 12.609400002361326,0.0,4.017485341421047
+[18Dec2024 00:36:41.788] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ElTata_) moved too quickly! 12.609400002361326,0.0,4.017485341421047
+[18Dec2024 00:36:41.788] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ElTata_) moved too quickly! 12.609400002361326,0.0,4.017485341421047
+[18Dec2024 00:36:41.788] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ElTata_) moved too quickly! 11.289870287633676,0.0,3.567970329651157
+[18Dec2024 00:36:41.841] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ElTata_) moved too quickly! 9.960851712602562,0.0,3.109763236019134
+[18Dec2024 00:36:42.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mascoli was shot by Skeleton Musketeer
+[18Dec2024 00:36:46.636] [Server thread/DEBUG] [twilightforest/]: Player Mascoli (3074805c-454a-3bf2-ab94-3c7ca5bad21e) respawned and received items held in storage
+[18Dec2024 00:37:12.578] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: titu lost connection: Disconnected
+[18Dec2024 00:37:12.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: titu left the game
+[18Dec2024 00:38:30.391] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 00:38:30.398] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 00:38:31.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> musket
+[18Dec2024 00:39:01.094] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElTata_ lost connection: Disconnected
+[18Dec2024 00:39:01.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTata_ left the game
+[18Dec2024 00:40:37.401] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['jonathan1122'/183, l='ServerLevel[world]', x=1431.68, y=118.00, z=-950.42], dimensionLocationPath overworld
+[18Dec2024 00:40:37.402] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['jonathan1122'/183, l='ServerLevel[world]', x=1431.68, y=118.00, z=-950.42] in list []
+[18Dec2024 00:40:42.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 went off with a bang thanks to Archevoker
+[18Dec2024 00:40:42.605] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ServerPlayer['jonathan1122'/183, l='ServerLevel[world]', x=1432.67, y=117.88, z=-951.70]
+[18Dec2024 00:40:43.997] [Server thread/DEBUG] [twilightforest/]: Player jonathan1122 (a07659a6-8778-3286-b26a-0e06bd88dc78) respawned and received items held in storage
