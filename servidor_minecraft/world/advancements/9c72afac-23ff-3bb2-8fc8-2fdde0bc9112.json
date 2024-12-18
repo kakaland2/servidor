@@ -27,6 +27,8 @@
     "criteria": {
       "minecraft:deep_ocean": "2024-12-18 00:09:36 +0000",
       "minecraft:eroded_badlands": "2024-12-17 23:51:01 +0000",
+      "minecraft:cherry_grove": "2024-12-18 01:49:40 +0000",
+      "minecraft:birch_forest": "2024-12-18 01:46:56 +0000",
       "minecraft:bamboo_jungle": "2024-12-17 23:44:35 +0000",
       "minecraft:wooded_badlands": "2024-12-17 23:48:33 +0000",
       "minecraft:badlands": "2024-12-17 23:49:41 +0000",
@@ -36,11 +38,14 @@
       "minecraft:sparse_jungle": "2024-12-17 23:43:22 +0000",
       "minecraft:lukewarm_ocean": "2024-12-18 00:01:16 +0000",
       "minecraft:river": "2024-12-17 23:15:16 +0000",
+      "minecraft:stony_shore": "2024-12-18 01:44:04 +0000",
       "minecraft:swamp": "2024-12-18 00:04:01 +0000",
       "minecraft:forest": "2024-12-17 23:27:58 +0000",
       "minecraft:desert": "2024-12-17 23:14:51 +0000",
       "minecraft:jungle": "2024-12-17 23:26:22 +0000",
       "minecraft:ocean": "2024-12-18 00:02:54 +0000",
+      "minecraft:warm_ocean": "2024-12-18 01:34:08 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-18 01:47:15 +0000",
       "minecraft:savanna": "2024-12-17 23:33:31 +0000",
       "minecraft:plains": "2024-12-17 23:36:52 +0000"
     },
@@ -1973,6 +1978,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2024-12-18 01:48:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_pickaxe": "2024-12-18 01:17:33 +0000"
@@ -2000,6 +2011,12 @@
   "soulsweapons:recipes/decorations/blackstone_pedestal": {
     "criteria": {
       "has_item": "2024-12-18 01:17:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2024-12-18 01:48:28 +0000"
     },
     "done": true
   },
@@ -2123,6 +2140,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2024-12-18 01:48:28 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/decorations/altar_block": {
     "criteria": {
       "has_item": "2024-12-18 01:17:38 +0000"
@@ -2153,6 +2176,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2024-12-18 01:48:38 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/tools/moonstone_axe_left": {
     "criteria": {
       "has_item": "2024-12-18 01:17:38 +0000"
@@ -2162,6 +2191,18 @@
   "soulsweapons:recipes/combat/bluemoon_shortsword": {
     "criteria": {
       "has_item": "2024-12-18 01:17:38 +0000"
+    },
+    "done": true
+  },
+  "packedup:recipes/misc/basic_from_chest": {
+    "criteria": {
+      "recipe_condition": "2024-12-18 01:50:26 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_rotten": {
+    "criteria": {
+      "requirement": "2024-12-18 01:48:35 +0000"
     },
     "done": true
   },

@@ -26,15 +26,21 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2024-12-18 01:23:13 +0000",
+      "minecraft:old_growth_pine_taiga": "2024-12-18 01:27:08 +0000",
       "minecraft:taiga": "2024-12-18 01:07:20 +0000",
       "minecraft:birch_forest": "2024-12-18 00:30:12 +0000",
+      "minecraft:beach": "2024-12-18 01:34:07 +0000",
       "minecraft:dark_forest": "2024-12-18 00:31:02 +0000",
       "minecraft:mangrove_swamp": "2024-12-17 23:55:15 +0000",
       "minecraft:sparse_jungle": "2024-12-17 23:22:03 +0000",
       "minecraft:river": "2024-12-17 05:30:02 +0000",
+      "minecraft:snowy_plains": "2024-12-18 01:23:46 +0000",
+      "minecraft:dripstone_caves": "2024-12-18 01:27:09 +0000",
+      "minecraft:snowy_taiga": "2024-12-18 01:51:44 +0000",
       "minecraft:grove": "2024-12-18 01:10:37 +0000",
       "minecraft:jagged_peaks": "2024-12-18 01:22:08 +0000",
       "minecraft:forest": "2024-12-18 00:02:54 +0000",
+      "minecraft:lush_caves": "2024-12-18 01:27:33 +0000",
       "minecraft:desert": "2024-12-17 05:28:47 +0000",
       "minecraft:jungle": "2024-12-18 00:04:26 +0000",
       "minecraft:windswept_savanna": "2024-12-17 23:57:39 +0000",
@@ -399,6 +405,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-18 01:45:25 +0000"
+    },
+    "done": true
+  },
   "ecologics:recipes/ecologics/flowering_azalea_planks": {
     "criteria": {
       "has_logs": "2024-12-17 23:19:39 +0000"
@@ -459,9 +471,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-18 01:45:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-17 23:07:06 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2024-12-18 01:28:12 +0000"
     },
     "done": true
   },
@@ -534,6 +558,12 @@
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2024-12-17 23:24:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-18 01:44:28 +0000"
     },
     "done": true
   },
@@ -615,6 +645,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-18 01:45:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2024-12-17 23:33:29 +0000"
@@ -642,6 +678,12 @@
   "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2024-12-17 23:27:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-18 01:44:28 +0000"
     },
     "done": true
   },
@@ -844,6 +886,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2024-12-18 01:47:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2024-12-18 00:12:45 +0000"
@@ -880,6 +928,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/building_blocks/moonstone_block": {
+    "criteria": {
+      "has_item": "2024-12-18 01:41:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2024-12-17 23:18:51 +0000"
@@ -907,6 +961,12 @@
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2024-12-17 23:20:34 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/decorations/blackstone_pedestal": {
+    "criteria": {
+      "has_item": "2024-12-18 01:41:36 +0000"
     },
     "done": true
   },
@@ -988,6 +1048,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-18 01:47:32 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/misc/verglas": {
     "criteria": {
       "has_item": "2024-12-18 00:13:12 +0000"
@@ -1003,6 +1069,12 @@
   "ecologics:recipes/ecologics/azalea_wood": {
     "criteria": {
       "has_log": "2024-12-17 23:19:31 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/tools/moonstone_shovel": {
+    "criteria": {
+      "has_item": "2024-12-18 01:41:36 +0000"
     },
     "done": true
   },
@@ -1024,15 +1096,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-18 01:45:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2024-12-18 00:53:36 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2024-12-18 01:28:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2024-12-17 23:18:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-18 01:45:25 +0000"
     },
     "done": true
   },
@@ -1060,6 +1150,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-18 01:45:25 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/root": {
     "criteria": {
       "inscription_table": "2024-12-17 23:34:37 +0000"
@@ -1069,6 +1165,18 @@
   "slashblade:abilities/enemy_step": {
     "criteria": {
       "customtrigger": "2024-12-17 23:50:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-18 01:50:38 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:moonstone": {
+    "criteria": {
+      "item": "2024-12-18 01:41:36 +0000"
     },
     "done": true
   },
@@ -1087,6 +1195,12 @@
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2024-12-17 23:26:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-18 01:47:32 +0000"
     },
     "done": true
   },
@@ -1120,6 +1234,7 @@
       "minecraft:skeleton": "2024-12-18 00:00:01 +0000",
       "minecraft:vindicator": "2024-12-18 00:31:36 +0000",
       "minecraft:spider": "2024-12-18 01:13:07 +0000",
+      "minecraft:creeper": "2024-12-18 01:47:27 +0000",
       "minecraft:zombie": "2024-12-18 01:06:27 +0000"
     },
     "done": false
@@ -1208,9 +1323,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-18 01:45:25 +0000"
+    },
+    "done": true
+  },
   "domum_ornamentum:recipes/tools/architectscutter": {
     "criteria": {
       "has_log": "2024-12-17 23:19:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-18 01:45:25 +0000"
     },
     "done": true
   },
@@ -1235,6 +1362,12 @@
   "domum_ornamentum:recipes/decorations/orange_floating_carpet": {
     "criteria": {
       "has_string": "2024-12-17 23:26:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2024-12-18 01:28:53 +0000"
     },
     "done": true
   },
@@ -1286,6 +1419,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2024-12-18 01:28:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-18 01:45:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2024-12-18 00:31:42 +0000"
@@ -1319,6 +1464,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2024-12-18 00:31:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-18 01:45:25 +0000"
     },
     "done": true
   },
@@ -1359,6 +1510,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2024-12-18 01:28:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-18 01:47:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2024-12-17 23:57:52 +0000"
@@ -1380,6 +1543,12 @@
   "skilltree:recipes/misc/assassin_necklace": {
     "criteria": {
       "has_bone": "2024-12-17 23:18:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-18 01:45:25 +0000"
     },
     "done": true
   },
@@ -1461,6 +1630,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/tools/moonstone_axe_right": {
+    "criteria": {
+      "has_item": "2024-12-18 01:41:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2024-12-17 23:31:13 +0000"
@@ -1492,6 +1667,18 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/featherlight": {
+    "criteria": {
+      "has_item": "2024-12-18 01:50:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-18 01:50:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
     "criteria": {
       "has_dune_armor_trim_smithing_template": "2024-12-17 23:27:33 +0000"
@@ -1505,15 +1692,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-18 01:47:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2024-12-18 00:12:45 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-18 01:50:38 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/building_blocks/verglas_block": {
     "criteria": {
       "has_item": "2024-12-18 00:13:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2024-12-18 01:28:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-18 01:45:25 +0000"
     },
     "done": true
   },
@@ -1535,6 +1746,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-18 01:45:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2024-12-17 23:25:07 +0000"
@@ -1544,6 +1761,18 @@
   "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
       "has_melon": "2024-12-17 23:22:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-18 01:45:25 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/tools/moonstone_pickaxe": {
+    "criteria": {
+      "has_item": "2024-12-18 01:41:36 +0000"
     },
     "done": true
   },
@@ -1643,6 +1872,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-18 01:45:25 +0000"
+    },
+    "done": true
+  },
   "domum_ornamentum:recipes/tools/paper_extra": {
     "criteria": {
       "has_material": "2024-12-17 23:33:29 +0000"
@@ -1658,6 +1893,12 @@
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2024-12-18 00:12:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-18 01:45:25 +0000"
     },
     "done": true
   },
@@ -1691,9 +1932,21 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/tools/moonstone_hoe_left": {
+    "criteria": {
+      "has_item": "2024-12-18 01:41:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2024-12-17 23:20:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-18 01:45:25 +0000"
     },
     "done": true
   },
@@ -1739,6 +1992,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/decorations/altar_block": {
+    "criteria": {
+      "has_item": "2024-12-18 01:41:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2024-12-18 00:04:13 +0000"
@@ -1775,6 +2034,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-18 01:45:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_stone_bricks": "2024-12-18 00:53:36 +0000"
@@ -1784,6 +2049,12 @@
   "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-18 00:20:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-18 01:47:32 +0000"
     },
     "done": true
   },
@@ -1877,9 +2148,21 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/misc/moonstone": {
+    "criteria": {
+      "has_item": "2024-12-18 01:41:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2024-12-17 23:18:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2024-12-18 01:47:32 +0000"
     },
     "done": true
   },
@@ -1907,9 +2190,21 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/bluemoon_greatsword": {
+    "criteria": {
+      "has_item": "2024-12-18 01:41:36 +0000"
+    },
+    "done": true
+  },
   "endrem:main/root": {
     "criteria": {
       "old_eye": "2024-12-17 23:27:20 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/tools/moonstone_hoe_right": {
+    "criteria": {
+      "has_item": "2024-12-18 01:41:36 +0000"
     },
     "done": true
   },
@@ -1961,9 +2256,21 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/tools/moonstone_axe_left": {
+    "criteria": {
+      "has_item": "2024-12-18 01:41:36 +0000"
+    },
+    "done": true
+  },
   "slashblade:recipes/combat/slashblade_wood": {
     "criteria": {
       "has_the_recipe": "2024-12-17 23:23:11 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/bluemoon_shortsword": {
+    "criteria": {
+      "has_item": "2024-12-18 01:41:36 +0000"
     },
     "done": true
   },
@@ -2051,6 +2358,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-18 01:45:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2024-12-18 00:09:37 +0000"
@@ -2060,6 +2373,12 @@
   "domum_ornamentum:recipes/decorations/blue_floating_carpet": {
     "criteria": {
       "has_string": "2024-12-17 23:26:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-18 01:50:38 +0000"
     },
     "done": true
   },
@@ -2111,6 +2430,12 @@
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2024-12-18 01:28:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2024-12-17 23:23:46 +0000"
@@ -2139,6 +2464,12 @@
     "criteria": {
       "has_item2_domum_ornamentum_sand_bricks": "2024-12-17 23:07:06 +0000",
       "has_item1_domum_ornamentum_sand_bricks": "2024-12-17 23:07:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-18 01:45:25 +0000"
     },
     "done": true
   },
@@ -2190,6 +2521,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2024-12-18 01:47:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2024-12-18 01:47:32 +0000"
+    },
+    "done": true
+  },
   "domum_ornamentum:recipes/tools/sand_stone_bricks": {
     "criteria": {
       "has_item1_domum_ornamentum_sand_stone_bricks": "2024-12-17 23:07:06 +0000",
@@ -2209,6 +2552,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-18 01:47:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2024-12-17 23:24:11 +0000"
@@ -2221,6 +2570,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2024-12-18 01:28:53 +0000"
+    },
+    "done": true
+  },
   "skilltree:recipes/combat/armored_quiver": {
     "criteria": {
       "has_ingots_iron": "2024-12-18 00:12:45 +0000"
@@ -2230,12 +2585,15 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-12-18 00:18:25 +0000",
+      "chicken": "2024-12-18 01:33:48 +0000",
       "cooked_mutton": "2024-12-17 23:43:40 +0000",
       "cooked_beef": "2024-12-18 00:11:25 +0000",
       "beef": "2024-12-18 00:38:22 +0000",
       "porkchop": "2024-12-18 00:35:54 +0000",
       "apple": "2024-12-17 23:22:55 +0000",
+      "mutton": "2024-12-18 01:34:57 +0000",
       "bread": "2024-12-17 23:17:19 +0000",
+      "golden_apple": "2024-12-18 01:32:47 +0000",
       "melon_slice": "2024-12-17 23:25:44 +0000"
     },
     "done": false
@@ -2249,6 +2607,12 @@
   "slashblade:recipes/combat/agito": {
     "criteria": {
       "has_proudsoul": "2024-12-17 23:23:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-18 01:45:25 +0000"
     },
     "done": true
   },
@@ -2297,6 +2661,12 @@
   "domum_ornamentum:recipes/decorations/light_gray_floating_carpet": {
     "criteria": {
       "has_string": "2024-12-17 23:26:56 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/tools/boss_compass": {
+    "criteria": {
+      "has_item": "2024-12-18 01:41:36 +0000"
     },
     "done": true
   },
