@@ -28,6 +28,7 @@
       "minecraft:eroded_badlands": "2024-12-18 00:56:05 +0000",
       "minecraft:sunflower_plains": "2024-12-18 02:56:02 +0000",
       "minecraft:birch_forest": "2024-12-18 02:31:14 +0000",
+      "minecraft:windswept_hills": "2024-12-18 03:18:50 +0000",
       "minecraft:bamboo_jungle": "2024-12-18 02:00:15 +0000",
       "minecraft:badlands": "2024-12-17 23:28:18 +0000",
       "minecraft:beach": "2024-12-18 01:57:50 +0000",
@@ -35,6 +36,7 @@
       "minecraft:mangrove_swamp": "2024-12-18 02:01:42 +0000",
       "minecraft:sparse_jungle": "2024-12-18 01:59:08 +0000",
       "minecraft:river": "2024-12-17 23:21:01 +0000",
+      "minecraft:lukewarm_ocean": "2024-12-18 03:24:54 +0000",
       "minecraft:dripstone_caves": "2024-12-18 00:04:08 +0000",
       "minecraft:swamp": "2024-12-18 02:03:21 +0000",
       "minecraft:forest": "2024-12-17 23:50:36 +0000",
@@ -44,6 +46,7 @@
       "minecraft:windswept_savanna": "2024-12-18 02:00:45 +0000",
       "minecraft:flower_forest": "2024-12-18 03:00:36 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-18 02:03:42 +0000",
+      "minecraft:meadow": "2024-12-18 03:27:42 +0000",
       "minecraft:savanna": "2024-12-18 01:48:17 +0000",
       "minecraft:plains": "2024-12-18 01:46:31 +0000"
     },
@@ -2502,6 +2505,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2024-12-18 03:20:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2024-12-18 02:51:35 +0000"
@@ -2544,9 +2553,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2024-12-18 03:20:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2024-12-18 02:51:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-12-18 03:20:05 +0000"
     },
     "done": true
   },
