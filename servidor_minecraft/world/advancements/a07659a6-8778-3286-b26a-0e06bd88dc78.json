@@ -603,7 +603,9 @@
       "golden_apple": "2024-12-18 01:32:47 +0000",
       "salmon": "2024-12-18 17:00:53 +0000",
       "melon_slice": "2024-12-17 23:25:44 +0000",
+      "cooked_rabbit": "2024-12-19 05:21:13 +0000",
       "cooked_chicken": "2024-12-18 03:13:35 +0000",
+      "enchanted_golden_apple": "2024-12-19 05:17:40 +0000",
       "carrot": "2024-12-19 03:16:05 +0000"
     },
     "done": false
@@ -5177,9 +5179,33 @@
     },
     "done": true
   },
+  "ecologics:recipes/food/rabbit_stew_from_brown_mushroom_and_coconut_husk": {
+    "criteria": {
+      "has_cooked_rabbit": "2024-12-19 05:21:11 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/food/rabbit_stew_from_red_mushroom_and_coconut_husk": {
+    "criteria": {
+      "has_cooked_rabbit": "2024-12-19 05:21:11 +0000"
+    },
+    "done": true
+  },
   "cataclysm:find_burning_arena": {
     "criteria": {
       "arena": "2024-12-19 04:45:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2024-12-19 05:21:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2024-12-19 05:21:11 +0000"
     },
     "done": true
   },
@@ -5192,6 +5218,12 @@
   "mowziesmobs:kill_umvuthi": {
     "criteria": {
       "barako": "2024-12-19 04:34:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2024-12-19 05:21:11 +0000"
     },
     "done": true
   },

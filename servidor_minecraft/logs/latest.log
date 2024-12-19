@@ -647,3 +647,45 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:brass_nugget'
 [19Dec2024 05:06:53.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> te noto un poco alterado
 [19Dec2024 05:07:04.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <9zcoloskibidi> tengo la mayus acr x acciedemte
 [19Dec2024 05:07:24.486] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2193ms or 43 ticks behind
+[19Dec2024 05:08:31.009] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[19Dec2024 05:08:48.764] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2771ms or 55 ticks behind
+[19Dec2024 05:08:50.104] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaco_tomsk lost connection: Disconnected
+[19Dec2024 05:08:50.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk left the game
+[19Dec2024 05:08:57.970] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joaco_tomsk[/127.79.179.172:43975] logged in with entity id 63538 at (644.9789966200314, 81.775, 1208.7020854350196)
+[19Dec2024 05:08:57.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk joined the game
+[19Dec2024 05:08:59.377] [Server thread/INFO] [Jade/]: Syncing config to joaco_tomsk (a076dc84-50bb-3bf4-832f-299af23013a2)
+[19Dec2024 05:09:52.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaco_tomsk> f
+[19Dec2024 05:09:57.731] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaco_tomsk lost connection: Disconnected
+[19Dec2024 05:09:57.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk left the game
+[19Dec2024 05:10:04.275] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joaco_tomsk[/127.79.179.172:53329] logged in with entity id 65329 at (639.2856121846374, 81.775, 1208.019510630414)
+[19Dec2024 05:10:04.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk joined the game
+[19Dec2024 05:10:05.042] [Server thread/INFO] [Jade/]: Syncing config to joaco_tomsk (a076dc84-50bb-3bf4-832f-299af23013a2)
+[19Dec2024 05:10:10.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> colo te va lag'
+[19Dec2024 05:10:11.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> ?
+[19Dec2024 05:10:14.627] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=22, y=64, z=224} BlockPos{x=23, y=62, z=226}
+[19Dec2024 05:10:17.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <9zcoloskibidi> no
+[19Dec2024 05:10:38.342] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonathan1122 moved too quickly! -7.870584563105222,-2.338731787817821,5.891223952935434
+[19Dec2024 05:10:38.380] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3387ms or 67 ticks behind
+[19Dec2024 05:10:43.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <titu> t
+[19Dec2024 05:12:31.182] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2789ms or 55 ticks behind
+[19Dec2024 05:12:32.435] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 9zcoloskibidi lost connection: Disconnected
+[19Dec2024 05:12:32.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 9zcoloskibidi left the game
+[19Dec2024 05:14:48.006] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3263ms or 65 ticks behind
+[19Dec2024 05:14:48.092] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaco_tomsk moved too quickly! 6.239187671915602,-0.2538907259487644,8.059917506769125
+[19Dec2024 05:16:41.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk was frozen to death by Cryomancer
+[19Dec2024 05:16:47.813] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[19Dec2024 05:17:08.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk was pierced by Cryomancer's icicle
+[19Dec2024 05:17:33.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk was pierced by Cryomancer's icicle
+[19Dec2024 05:18:31.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk was pierced by Cryomancer's icicle
+[19Dec2024 05:18:37.943] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonathan1122 moved too quickly! 6.773108016536412,4.062076438078321,-6.377222114430062
+[19Dec2024 05:19:08.003] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[19Dec2024 05:19:54.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk was frozen to death by Cryomancer
+[19Dec2024 05:20:24.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk was crushed by Cryomancer's giant block of ice
+[19Dec2024 05:20:52.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk was pierced by Cryomancer's icicle
+[19Dec2024 05:20:58.777] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2134ms or 42 ticks behind
+[19Dec2024 05:20:58.822] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonathan1122 moved too quickly! -6.767903885789437,4.789084919640445,6.060422671514061
+[19Dec2024 05:21:35.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk was pierced by Cryomancer's icicle
+[19Dec2024 05:21:56.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk was pierced by Cryomancer's icicle
+[19Dec2024 05:24:02.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk was crushed by Cryomancer's giant block of ice
+[19Dec2024 05:24:27.295] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/88008, l='ServerLevel[world]', x=-120.50, y=72.00, z=780.50]
+[19Dec2024 05:25:10.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk was crushed by Iceologer Block's giant block of ice
