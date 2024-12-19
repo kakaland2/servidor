@@ -3294,6 +3294,12 @@
     },
     "done": true
   },
+  "twilightforest:root": {
+    "criteria": {
+      "in_tf": "2024-12-19 04:20:01 +0000"
+    },
+    "done": true
+  },
   "twilightforest:twilight_hunter": {
     "criteria": {
       "yeti": "2024-12-19 04:20:48 +0000"
@@ -3354,9 +3360,15 @@
     },
     "done": true
   },
-  "twilightforest:root": {
+  "minecraft:story/shiny_gear": {
     "criteria": {
-      "in_tf": "2024-12-19 04:20:01 +0000"
+      "diamond_helmet": "2024-12-19 04:58:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2024-12-19 04:58:42 +0000"
     },
     "done": true
   },

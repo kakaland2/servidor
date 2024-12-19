@@ -616,3 +616,34 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:brass_nugget'
 [19Dec2024 04:53:10.086] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: titu[/127.79.122.95:48325] logged in with entity id 47441 at (519.5220213644129, 38.92159999847412, 626.9124209673236)
 [19Dec2024 04:53:10.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: titu joined the game
 [19Dec2024 04:53:10.119] [Server thread/INFO] [Jade/]: Syncing config to titu (1771bea9-3264-3ddb-ba12-2d974f6a0520)
+[19Dec2024 04:54:31.273] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 9zcoloskibidi lost connection: Timed out
+[19Dec2024 04:54:31.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 9zcoloskibidi left the game
+[19Dec2024 04:54:39.474] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaco_tomsk lost connection: Timed out
+[19Dec2024 04:54:39.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk left the game
+[19Dec2024 04:54:40.315] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: titu lost connection: Timed out
+[19Dec2024 04:54:40.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: titu left the game
+[19Dec2024 04:54:43.563] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 9zcoloskibidi[/127.213.240.60:50005] logged in with entity id 48708 at (6637.6681100131045, 66.02442408821369, 2947.198697897629)
+[19Dec2024 04:54:43.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 9zcoloskibidi joined the game
+[19Dec2024 04:54:43.577] [Server thread/INFO] [Jade/]: Syncing config to 9zcoloskibidi (9c72afac-23ff-3bb2-8fc8-2fdde0bc9112)
+[19Dec2024 04:54:44.525] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joaco_tomsk[/127.79.179.172:51433] logged in with entity id 48709 at (2242.0946229024175, 95.0, -1262.4201764784923)
+[19Dec2024 04:54:44.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk joined the game
+[19Dec2024 04:54:44.560] [Server thread/INFO] [Jade/]: Syncing config to joaco_tomsk (a076dc84-50bb-3bf4-832f-299af23013a2)
+[19Dec2024 04:55:02.837] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: titu[/127.79.122.95:58337] logged in with entity id 49265 at (518.3000000119209, 69.0, 618.6128661151868)
+[19Dec2024 04:55:02.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: titu joined the game
+[19Dec2024 04:55:02.861] [Server thread/INFO] [Jade/]: Syncing config to titu (1771bea9-3264-3ddb-ba12-2d974f6a0520)
+[19Dec2024 04:55:43.495] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[19Dec2024 04:56:04.847] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6354ms or 127 ticks behind
+[19Dec2024 04:56:10.560] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/49943, l='ServerLevel[world]', x=6629.50, y=69.00, z=2914.50]
+[19Dec2024 04:56:26.406] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6563ms or 131 ticks behind
+[19Dec2024 04:58:48.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: titu has made the advancement [Cover Me with Diamonds]
+[19Dec2024 05:00:06.735] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3242ms or 64 ticks behind
+[19Dec2024 05:00:06.780] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonathan1122 moved too quickly! -7.944495543479661,2.2590552240790487,-6.3345745557442115
+[19Dec2024 05:00:06.786] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: titu moved too quickly! 6.0748368801358765,-0.2062864823494408,-8.080356008925378
+[19Dec2024 05:00:09.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> t
+[19Dec2024 05:01:20.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk fell from a high place
+[19Dec2024 05:06:32.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> y pa??
+[19Dec2024 05:06:35.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> pudiste agarrar tus cosas
+[19Dec2024 05:06:46.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <9zcoloskibidi> SIGO BUSCANDO UN COSO PARA HACER LA POSION
+[19Dec2024 05:06:53.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> te noto un poco alterado
+[19Dec2024 05:07:04.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <9zcoloskibidi> tengo la mayus acr x acciedemte
+[19Dec2024 05:07:24.486] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2193ms or 43 ticks behind
