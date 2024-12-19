@@ -704,3 +704,25 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:brass_nugget'
 [19Dec2024 05:45:07.123] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: titu lost connection: Disconnected
 [19Dec2024 05:45:07.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: titu left the game
 [19Dec2024 05:49:19.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk has made the advancement [Local Brewery]
+[19Dec2024 05:50:23.714] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonathan1122 lost connection: Disconnected
+[19Dec2024 05:50:23.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 left the game
+[19Dec2024 05:50:24.976] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaco_tomsk lost connection: Disconnected
+[19Dec2024 05:50:24.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk left the game
+[19Dec2024 05:50:25.049] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Dec2024 05:50:33.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[19Dec2024 05:50:33.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[19Dec2024 05:50:33.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[19Dec2024 05:50:33.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[19Dec2024 05:50:33.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19Dec2024 05:50:33.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[19Dec2024 05:50:33.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[19Dec2024 05:50:33.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[19Dec2024 05:50:33.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19Dec2024 05:50:33.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19Dec2024 05:50:33.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19Dec2024 05:50:33.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[19Dec2024 05:50:33.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[19Dec2024 05:50:34.495] [Server thread/INFO] [Framework/]: Unloading server configs...
+[19Dec2024 05:50:34.500] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[19Dec2024 05:50:34.503] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[19Dec2024 05:50:34.505] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
