@@ -3427,6 +3427,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2024-12-19 05:38:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_red_carpet": {
     "criteria": {
       "has_needed_dye": "2024-12-19 05:19:39 +0000"
@@ -3454,6 +3460,18 @@
   "soulsweapons:recipes/combat/translucent_double_greatsword": {
     "criteria": {
       "has_item": "2024-12-19 05:21:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2024-12-19 05:38:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-12-19 05:34:02 +0000"
     },
     "done": true
   },
@@ -3532,6 +3550,12 @@
   "soulsweapons:recipes/combat/silver_bullet": {
     "criteria": {
       "has_lost_soul": "2024-12-19 05:21:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-19 05:34:02 +0000"
     },
     "done": true
   },

@@ -5185,9 +5185,21 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/walnut_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-19 05:43:17 +0000"
+    },
+    "done": true
+  },
   "ecologics:recipes/food/rabbit_stew_from_red_mushroom_and_coconut_husk": {
     "criteria": {
       "has_cooked_rabbit": "2024-12-19 05:21:11 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/walnut_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-19 05:43:17 +0000"
     },
     "done": true
   },
@@ -5197,9 +5209,27 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/walnut_sign": {
+    "criteria": {
+      "has_planks": "2024-12-19 05:43:17 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/walnut_button": {
+    "criteria": {
+      "has_planks": "2024-12-19 05:43:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather": {
     "criteria": {
       "has_rabbit_hide": "2024-12-19 05:21:11 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/walnut_slab": {
+    "criteria": {
+      "has_planks": "2024-12-19 05:43:17 +0000"
     },
     "done": true
   },
@@ -5209,9 +5239,33 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/walnut_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-19 05:43:17 +0000"
+    },
+    "done": true
+  },
   "cataclysm:kill_revenant": {
     "criteria": {
       "endergolem": "2024-12-19 04:46:33 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/walnut_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-19 05:43:17 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_ignis": {
+    "criteria": {
+      "ignis": "2024-12-19 05:34:11 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/walnut_door": {
+    "criteria": {
+      "has_planks": "2024-12-19 05:43:17 +0000"
     },
     "done": true
   },
@@ -5224,6 +5278,12 @@
   "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
     "criteria": {
       "has_cooked_rabbit": "2024-12-19 05:21:11 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/walnut_fence": {
+    "criteria": {
+      "has_planks": "2024-12-19 05:43:17 +0000"
     },
     "done": true
   },

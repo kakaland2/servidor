@@ -1824,9 +1824,11 @@
     "criteria": {
       "minecraft:pillager": "2024-12-18 03:21:25 +0000",
       "minecraft:skeleton": "2024-12-18 23:33:19 +0000",
+      "minecraft:spider": "2024-12-19 05:41:12 +0000",
       "minecraft:creeper": "2024-12-18 23:31:58 +0000",
       "minecraft:enderman": "2024-12-19 04:18:05 +0000",
-      "minecraft:zombie": "2024-12-18 03:17:22 +0000"
+      "minecraft:zombie": "2024-12-18 03:17:22 +0000",
+      "minecraft:drowned": "2024-12-19 05:26:25 +0000"
     },
     "done": false
   },
@@ -2646,9 +2648,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-19 05:49:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2024-12-19 05:49:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-19 05:15:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-19 05:49:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2024-12-19 05:42:51 +0000"
     },
     "done": true
   },
@@ -2664,9 +2690,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-19 05:41:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-19 05:15:39 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/misc/lost_soul": {
+    "criteria": {
+      "has_item": "2024-12-19 05:42:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2024-12-19 05:42:51 +0000"
     },
     "done": true
   },
@@ -2676,9 +2720,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-19 05:49:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "nether_wart": "2024-12-19 05:43:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-19 05:15:39 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/combat/fiery_quiver": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-19 05:49:05 +0000"
     },
     "done": true
   },
